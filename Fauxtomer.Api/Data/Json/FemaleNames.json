@@ -1,0 +1,2497 @@
+[
+  {
+    "Name": "Anna",
+    "Type": "Female",
+    "Weight": 97287
+  },
+  {
+    "Name": "Maria",
+    "Type": "Female",
+    "Weight": 82731
+  },
+  {
+    "Name": "Eva",
+    "Type": "Female",
+    "Weight": 79365
+  },
+  {
+    "Name": "Karin",
+    "Type": "Female",
+    "Weight": 60039
+  },
+  {
+    "Name": "Lena",
+    "Type": "Female",
+    "Weight": 55301
+  },
+  {
+    "Name": "Emma",
+    "Type": "Female",
+    "Weight": 50468
+  },
+  {
+    "Name": "Kerstin",
+    "Type": "Female",
+    "Weight": 47564
+  },
+  {
+    "Name": "Sara",
+    "Type": "Female",
+    "Weight": 44668
+  },
+  {
+    "Name": "Malin",
+    "Type": "Female",
+    "Weight": 40340
+  },
+  {
+    "Name": "Ingrid",
+    "Type": "Female",
+    "Weight": 40300
+  },
+  {
+    "Name": "Linda",
+    "Type": "Female",
+    "Weight": 38125
+  },
+  {
+    "Name": "Elin",
+    "Type": "Female",
+    "Weight": 37161
+  },
+  {
+    "Name": "Birgitta",
+    "Type": "Female",
+    "Weight": 37103
+  },
+  {
+    "Name": "Marie",
+    "Type": "Female",
+    "Weight": 36678
+  },
+  {
+    "Name": "Inger",
+    "Type": "Female",
+    "Weight": 34316
+  },
+  {
+    "Name": "Johanna",
+    "Type": "Female",
+    "Weight": 33976
+  },
+  {
+    "Name": "Hanna",
+    "Type": "Female",
+    "Weight": 32142
+  },
+  {
+    "Name": "Sofia",
+    "Type": "Female",
+    "Weight": 31234
+  },
+  {
+    "Name": "Annika",
+    "Type": "Female",
+    "Weight": 30923
+  },
+  {
+    "Name": "Ulla",
+    "Type": "Female",
+    "Weight": 30546
+  },
+  {
+    "Name": "Julia",
+    "Type": "Female",
+    "Weight": 30461
+  },
+  {
+    "Name": "Susanne",
+    "Type": "Female",
+    "Weight": 30387
+  },
+  {
+    "Name": "Jenny",
+    "Type": "Female",
+    "Weight": 29979
+  },
+  {
+    "Name": "Carina",
+    "Type": "Female",
+    "Weight": 29589
+  },
+  {
+    "Name": "Ida",
+    "Type": "Female",
+    "Weight": 28637
+  },
+  {
+    "Name": "Christina",
+    "Type": "Female",
+    "Weight": 28287
+  },
+  {
+    "Name": "Helena",
+    "Type": "Female",
+    "Weight": 27261
+  },
+  {
+    "Name": "Åsa",
+    "Type": "Female",
+    "Weight": 26936
+  },
+  {
+    "Name": "Kristina",
+    "Type": "Female",
+    "Weight": 26598
+  },
+  {
+    "Name": "Camilla",
+    "Type": "Female",
+    "Weight": 25787
+  },
+  {
+    "Name": "Gunilla",
+    "Type": "Female",
+    "Weight": 25611
+  },
+  {
+    "Name": "Sandra",
+    "Type": "Female",
+    "Weight": 24988
+  },
+  {
+    "Name": "Anita",
+    "Type": "Female",
+    "Weight": 24723
+  },
+  {
+    "Name": "Monica",
+    "Type": "Female",
+    "Weight": 24574
+  },
+  {
+    "Name": "Amanda",
+    "Type": "Female",
+    "Weight": 24520
+  },
+  {
+    "Name": "Cecilia",
+    "Type": "Female",
+    "Weight": 23274
+  },
+  {
+    "Name": "Emelie",
+    "Type": "Female",
+    "Weight": 21909
+  },
+  {
+    "Name": "Margareta",
+    "Type": "Female",
+    "Weight": 21832
+  },
+  {
+    "Name": "Jessica",
+    "Type": "Female",
+    "Weight": 21688
+  },
+  {
+    "Name": "Frida",
+    "Type": "Female",
+    "Weight": 21659
+  },
+  {
+    "Name": "Elsa",
+    "Type": "Female",
+    "Weight": 21142
+  },
+  {
+    "Name": "Alice",
+    "Type": "Female",
+    "Weight": 21141
+  },
+  {
+    "Name": "Barbro",
+    "Type": "Female",
+    "Weight": 21048
+  },
+  {
+    "Name": "Marianne",
+    "Type": "Female",
+    "Weight": 20479
+  },
+  {
+    "Name": "Lisa",
+    "Type": "Female",
+    "Weight": 20112
+  },
+  {
+    "Name": "Elisabeth",
+    "Type": "Female",
+    "Weight": 19725
+  },
+  {
+    "Name": "Siv",
+    "Type": "Female",
+    "Weight": 19532
+  },
+  {
+    "Name": "Maja",
+    "Type": "Female",
+    "Weight": 19232
+  },
+  {
+    "Name": "Ulrika",
+    "Type": "Female",
+    "Weight": 19135
+  },
+  {
+    "Name": "Anette",
+    "Type": "Female",
+    "Weight": 19123
+  },
+  {
+    "Name": "Ebba",
+    "Type": "Female",
+    "Weight": 19076
+  },
+  {
+    "Name": "Caroline",
+    "Type": "Female",
+    "Weight": 18727
+  },
+  {
+    "Name": "Katarina",
+    "Type": "Female",
+    "Weight": 18026
+  },
+  {
+    "Name": "Agneta",
+    "Type": "Female",
+    "Weight": 17318
+  },
+  {
+    "Name": "Lina",
+    "Type": "Female",
+    "Weight": 17228
+  },
+  {
+    "Name": "Matilda",
+    "Type": "Female",
+    "Weight": 16847
+  },
+  {
+    "Name": "Pia",
+    "Type": "Female",
+    "Weight": 16801
+  },
+  {
+    "Name": "Berit",
+    "Type": "Female",
+    "Weight": 16676
+  },
+  {
+    "Name": "Gun",
+    "Type": "Female",
+    "Weight": 16389
+  },
+  {
+    "Name": "Ella",
+    "Type": "Female",
+    "Weight": 16373
+  },
+  {
+    "Name": "Ellen",
+    "Type": "Female",
+    "Weight": 15930
+  },
+  {
+    "Name": "Astrid",
+    "Type": "Female",
+    "Weight": 15846
+  },
+  {
+    "Name": "Yvonne",
+    "Type": "Female",
+    "Weight": 15657
+  },
+  {
+    "Name": "Moa",
+    "Type": "Female",
+    "Weight": 15632
+  },
+  {
+    "Name": "Louise",
+    "Type": "Female",
+    "Weight": 15278
+  },
+  {
+    "Name": "Agnes",
+    "Type": "Female",
+    "Weight": 15165
+  },
+  {
+    "Name": "Mona",
+    "Type": "Female",
+    "Weight": 15116
+  },
+  {
+    "Name": "Linnéa",
+    "Type": "Female",
+    "Weight": 15096
+  },
+  {
+    "Name": "Olivia",
+    "Type": "Female",
+    "Weight": 15093
+  },
+  {
+    "Name": "Britt",
+    "Type": "Female",
+    "Weight": 15000
+  },
+  {
+    "Name": "Emilia",
+    "Type": "Female",
+    "Weight": 14934
+  },
+  {
+    "Name": "Therese",
+    "Type": "Female",
+    "Weight": 14928
+  },
+  {
+    "Name": "Alva",
+    "Type": "Female",
+    "Weight": 14851
+  },
+  {
+    "Name": "Ann",
+    "Type": "Female",
+    "Weight": 14812
+  },
+  {
+    "Name": "Anneli",
+    "Type": "Female",
+    "Weight": 14662
+  },
+  {
+    "Name": "Felicia",
+    "Type": "Female",
+    "Weight": 14333
+  },
+  {
+    "Name": "Linnea",
+    "Type": "Female",
+    "Weight": 14163
+  },
+  {
+    "Name": "Alexandra",
+    "Type": "Female",
+    "Weight": 13169
+  },
+  {
+    "Name": "Pernilla",
+    "Type": "Female",
+    "Weight": 13136
+  },
+  {
+    "Name": "Sofie",
+    "Type": "Female",
+    "Weight": 13120
+  },
+  {
+    "Name": "Wilma",
+    "Type": "Female",
+    "Weight": 13023
+  },
+  {
+    "Name": "Gunnel",
+    "Type": "Female",
+    "Weight": 12509
+  },
+  {
+    "Name": "Monika",
+    "Type": "Female",
+    "Weight": 12353
+  },
+  {
+    "Name": "Lovisa",
+    "Type": "Female",
+    "Weight": 12322
+  },
+  {
+    "Name": "Nina",
+    "Type": "Female",
+    "Weight": 12118
+  },
+  {
+    "Name": "Ingela",
+    "Type": "Female",
+    "Weight": 12060
+  },
+  {
+    "Name": "Stina",
+    "Type": "Female",
+    "Weight": 12028
+  },
+  {
+    "Name": "Madeleine",
+    "Type": "Female",
+    "Weight": 11956
+  },
+  {
+    "Name": "Charlotte",
+    "Type": "Female",
+    "Weight": 11953
+  },
+  {
+    "Name": "Linn",
+    "Type": "Female",
+    "Weight": 11951
+  },
+  {
+    "Name": "Saga",
+    "Type": "Female",
+    "Weight": 11851
+  },
+  {
+    "Name": "Alma",
+    "Type": "Female",
+    "Weight": 11672
+  },
+  {
+    "Name": "Sonja",
+    "Type": "Female",
+    "Weight": 11501
+  },
+  {
+    "Name": "Petra",
+    "Type": "Female",
+    "Weight": 11048
+  },
+  {
+    "Name": "Birgit",
+    "Type": "Female",
+    "Weight": 10935
+  },
+  {
+    "Name": "Rebecca",
+    "Type": "Female",
+    "Weight": 10738
+  },
+  {
+    "Name": "Erika",
+    "Type": "Female",
+    "Weight": 10537
+  },
+  {
+    "Name": "Alicia",
+    "Type": "Female",
+    "Weight": 10508
+  },
+  {
+    "Name": "Josefin",
+    "Type": "Female",
+    "Weight": 10453
+  },
+  {
+    "Name": "Josefine",
+    "Type": "Female",
+    "Weight": 10446
+  },
+  {
+    "Name": "Britt-Marie",
+    "Type": "Female",
+    "Weight": 10399
+  },
+  {
+    "Name": "Inga",
+    "Type": "Female",
+    "Weight": 10351
+  },
+  {
+    "Name": "Klara",
+    "Type": "Female",
+    "Weight": 10299
+  },
+  {
+    "Name": "Gerd",
+    "Type": "Female",
+    "Weight": 10123
+  },
+  {
+    "Name": "Elisabet",
+    "Type": "Female",
+    "Weight": 10012
+  },
+  {
+    "Name": "Isabelle",
+    "Type": "Female",
+    "Weight": 9997
+  },
+  {
+    "Name": "Jeanette",
+    "Type": "Female",
+    "Weight": 9912
+  },
+  {
+    "Name": "Jennifer",
+    "Type": "Female",
+    "Weight": 9825
+  },
+  {
+    "Name": "Vera",
+    "Type": "Female",
+    "Weight": 9683
+  },
+  {
+    "Name": "Lisbeth",
+    "Type": "Female",
+    "Weight": 9613
+  },
+  {
+    "Name": "Evelina",
+    "Type": "Female",
+    "Weight": 9560
+  },
+  {
+    "Name": "Nathalie",
+    "Type": "Female",
+    "Weight": 9353
+  },
+  {
+    "Name": "Anne",
+    "Type": "Female",
+    "Weight": 9125
+  },
+  {
+    "Name": "Veronica",
+    "Type": "Female",
+    "Weight": 9120
+  },
+  {
+    "Name": "Signe",
+    "Type": "Female",
+    "Weight": 8952
+  },
+  {
+    "Name": "Isabella",
+    "Type": "Female",
+    "Weight": 8912
+  },
+  {
+    "Name": "Helen",
+    "Type": "Female",
+    "Weight": 8894
+  },
+  {
+    "Name": "Sanna",
+    "Type": "Female",
+    "Weight": 8888
+  },
+  {
+    "Name": "Marita",
+    "Type": "Female",
+    "Weight": 8838
+  },
+  {
+    "Name": "Clara",
+    "Type": "Female",
+    "Weight": 8829
+  },
+  {
+    "Name": "Irene",
+    "Type": "Female",
+    "Weight": 8786
+  },
+  {
+    "Name": "Jennie",
+    "Type": "Female",
+    "Weight": 8706
+  },
+  {
+    "Name": "Annelie",
+    "Type": "Female",
+    "Weight": 8568
+  },
+  {
+    "Name": "Selma",
+    "Type": "Female",
+    "Weight": 8466
+  },
+  {
+    "Name": "Kajsa",
+    "Type": "Female",
+    "Weight": 8461
+  },
+  {
+    "Name": "Molly",
+    "Type": "Female",
+    "Weight": 8393
+  },
+  {
+    "Name": "Stella",
+    "Type": "Female",
+    "Weight": 8378
+  },
+  {
+    "Name": "Victoria",
+    "Type": "Female",
+    "Weight": 8281
+  },
+  {
+    "Name": "Solveig",
+    "Type": "Female",
+    "Weight": 8182
+  },
+  {
+    "Name": "Rebecka",
+    "Type": "Female",
+    "Weight": 8159
+  },
+  {
+    "Name": "Angelica",
+    "Type": "Female",
+    "Weight": 8061
+  },
+  {
+    "Name": "Fanny",
+    "Type": "Female",
+    "Weight": 7961
+  },
+  {
+    "Name": "Laila",
+    "Type": "Female",
+    "Weight": 7738
+  },
+  {
+    "Name": "Elvira",
+    "Type": "Female",
+    "Weight": 7577
+  },
+  {
+    "Name": "Ylva",
+    "Type": "Female",
+    "Weight": 7566
+  },
+  {
+    "Name": "Filippa",
+    "Type": "Female",
+    "Weight": 7539
+  },
+  {
+    "Name": "Martina",
+    "Type": "Female",
+    "Weight": 7484
+  },
+  {
+    "Name": "Nora",
+    "Type": "Female",
+    "Weight": 7420
+  },
+  {
+    "Name": "Märta",
+    "Type": "Female",
+    "Weight": 7380
+  },
+  {
+    "Name": "Maj",
+    "Type": "Female",
+    "Weight": 7319
+  },
+  {
+    "Name": "Nellie",
+    "Type": "Female",
+    "Weight": 7254
+  },
+  {
+    "Name": "Rut",
+    "Type": "Female",
+    "Weight": 7245
+  },
+  {
+    "Name": "Helene",
+    "Type": "Female",
+    "Weight": 7137
+  },
+  {
+    "Name": "Freja",
+    "Type": "Female",
+    "Weight": 7072
+  },
+  {
+    "Name": "Ann-Charlotte",
+    "Type": "Female",
+    "Weight": 7062
+  },
+  {
+    "Name": "Mikaela",
+    "Type": "Female",
+    "Weight": 7047
+  },
+  {
+    "Name": "Maud",
+    "Type": "Female",
+    "Weight": 7046
+  },
+  {
+    "Name": "Tina",
+    "Type": "Female",
+    "Weight": 7000
+  },
+  {
+    "Name": "Nova",
+    "Type": "Female",
+    "Weight": 6910
+  },
+  {
+    "Name": "Annette",
+    "Type": "Female",
+    "Weight": 6861
+  },
+  {
+    "Name": "Sarah",
+    "Type": "Female",
+    "Weight": 6799
+  },
+  {
+    "Name": "Marina",
+    "Type": "Female",
+    "Weight": 6794
+  },
+  {
+    "Name": "Anna-Karin",
+    "Type": "Female",
+    "Weight": 6721
+  },
+  {
+    "Name": "Tilda",
+    "Type": "Female",
+    "Weight": 6667
+  },
+  {
+    "Name": "Tove",
+    "Type": "Female",
+    "Weight": 6509
+  },
+  {
+    "Name": "Anna-Lena",
+    "Type": "Female",
+    "Weight": 6491
+  },
+  {
+    "Name": "Susanna",
+    "Type": "Female",
+    "Weight": 6456
+  },
+  {
+    "Name": "Tuva",
+    "Type": "Female",
+    "Weight": 6443
+  },
+  {
+    "Name": "Gudrun",
+    "Type": "Female",
+    "Weight": 6388
+  },
+  {
+    "Name": "Gunvor",
+    "Type": "Female",
+    "Weight": 6323
+  },
+  {
+    "Name": "Iris",
+    "Type": "Female",
+    "Weight": 6315
+  },
+  {
+    "Name": "Sigrid",
+    "Type": "Female",
+    "Weight": 6287
+  },
+  {
+    "Name": "My",
+    "Type": "Female",
+    "Weight": 6193
+  },
+  {
+    "Name": "Lilly",
+    "Type": "Female",
+    "Weight": 6192
+  },
+  {
+    "Name": "Cornelia",
+    "Type": "Female",
+    "Weight": 6165
+  },
+  {
+    "Name": "Tilde",
+    "Type": "Female",
+    "Weight": 6160
+  },
+  {
+    "Name": "Karolina",
+    "Type": "Female",
+    "Weight": 6144
+  },
+  {
+    "Name": "Annica",
+    "Type": "Female",
+    "Weight": 6137
+  },
+  {
+    "Name": "Gabriella",
+    "Type": "Female",
+    "Weight": 6099
+  },
+  {
+    "Name": "Elina",
+    "Type": "Female",
+    "Weight": 6097
+  },
+  {
+    "Name": "Mia",
+    "Type": "Female",
+    "Weight": 6055
+  },
+  {
+    "Name": "Charlotta",
+    "Type": "Female",
+    "Weight": 6021
+  },
+  {
+    "Name": "Ingegerd",
+    "Type": "Female",
+    "Weight": 6018
+  },
+  {
+    "Name": "Ellinor",
+    "Type": "Female",
+    "Weight": 5983
+  },
+  {
+    "Name": "Tyra",
+    "Type": "Female",
+    "Weight": 5976
+  },
+  {
+    "Name": "Carolina",
+    "Type": "Female",
+    "Weight": 5968
+  },
+  {
+    "Name": "Thea",
+    "Type": "Female",
+    "Weight": 5963
+  },
+  {
+    "Name": "Marie-Louise",
+    "Type": "Female",
+    "Weight": 5956
+  },
+  {
+    "Name": "Maj-Britt",
+    "Type": "Female",
+    "Weight": 5945
+  },
+  {
+    "Name": "Annie",
+    "Type": "Female",
+    "Weight": 5814
+  },
+  {
+    "Name": "Siri",
+    "Type": "Female",
+    "Weight": 5802
+  },
+  {
+    "Name": "Ann-Christin",
+    "Type": "Female",
+    "Weight": 5774
+  },
+  {
+    "Name": "Lilian",
+    "Type": "Female",
+    "Weight": 5766
+  },
+  {
+    "Name": "Magdalena",
+    "Type": "Female",
+    "Weight": 5741
+  },
+  {
+    "Name": "Ester",
+    "Type": "Female",
+    "Weight": 5714
+  },
+  {
+    "Name": "Diana",
+    "Type": "Female",
+    "Weight": 5639
+  },
+  {
+    "Name": "Ulla-Britt",
+    "Type": "Female",
+    "Weight": 5636
+  },
+  {
+    "Name": "Ann-Marie",
+    "Type": "Female",
+    "Weight": 5559
+  },
+  {
+    "Name": "Viktoria",
+    "Type": "Female",
+    "Weight": 5418
+  },
+  {
+    "Name": "Britta",
+    "Type": "Female",
+    "Weight": 5389
+  },
+  {
+    "Name": "Ronja",
+    "Type": "Female",
+    "Weight": 5325
+  },
+  {
+    "Name": "Ewa",
+    "Type": "Female",
+    "Weight": 5205
+  },
+  {
+    "Name": "Rose-Marie",
+    "Type": "Female",
+    "Weight": 5203
+  },
+  {
+    "Name": "Inga-Lill",
+    "Type": "Female",
+    "Weight": 5134
+  },
+  {
+    "Name": "Fatima",
+    "Type": "Female",
+    "Weight": 5114
+  },
+  {
+    "Name": "Natalie",
+    "Type": "Female",
+    "Weight": 5113
+  },
+  {
+    "Name": "Carin",
+    "Type": "Female",
+    "Weight": 5090
+  },
+  {
+    "Name": "Mathilda",
+    "Type": "Female",
+    "Weight": 5049
+  },
+  {
+    "Name": "Liv",
+    "Type": "Female",
+    "Weight": 5036
+  },
+  {
+    "Name": "Margit",
+    "Type": "Female",
+    "Weight": 5006
+  },
+  {
+    "Name": "Tindra",
+    "Type": "Female",
+    "Weight": 4969
+  },
+  {
+    "Name": "Ann-Sofie",
+    "Type": "Female",
+    "Weight": 4951
+  },
+  {
+    "Name": "Lova",
+    "Type": "Female",
+    "Weight": 4925
+  },
+  {
+    "Name": "Nicole",
+    "Type": "Female",
+    "Weight": 4809
+  },
+  {
+    "Name": "Kristin",
+    "Type": "Female",
+    "Weight": 4805
+  },
+  {
+    "Name": "Jonna",
+    "Type": "Female",
+    "Weight": 4791
+  },
+  {
+    "Name": "Catharina",
+    "Type": "Female",
+    "Weight": 4758
+  },
+  {
+    "Name": "Eivor",
+    "Type": "Female",
+    "Weight": 4692
+  },
+  {
+    "Name": "Madelene",
+    "Type": "Female",
+    "Weight": 4685
+  },
+  {
+    "Name": "Andrea",
+    "Type": "Female",
+    "Weight": 4679
+  },
+  {
+    "Name": "Elise",
+    "Type": "Female",
+    "Weight": 4656
+  },
+  {
+    "Name": "Catarina",
+    "Type": "Female",
+    "Weight": 4632
+  },
+  {
+    "Name": "Svea",
+    "Type": "Female",
+    "Weight": 4622
+  },
+  {
+    "Name": "Erica",
+    "Type": "Female",
+    "Weight": 4611
+  },
+  {
+    "Name": "Greta",
+    "Type": "Female",
+    "Weight": 4577
+  },
+  {
+    "Name": "Bodil",
+    "Type": "Female",
+    "Weight": 4573
+  },
+  {
+    "Name": "Hannah",
+    "Type": "Female",
+    "Weight": 4531
+  },
+  {
+    "Name": "Lillemor",
+    "Type": "Female",
+    "Weight": 4518
+  },
+  {
+    "Name": "Ellie",
+    "Type": "Female",
+    "Weight": 4511
+  },
+  {
+    "Name": "Sabina",
+    "Type": "Female",
+    "Weight": 4507
+  },
+  {
+    "Name": "Carola",
+    "Type": "Female",
+    "Weight": 4496
+  },
+  {
+    "Name": "Maya",
+    "Type": "Female",
+    "Weight": 4455
+  },
+  {
+    "Name": "Hilda",
+    "Type": "Female",
+    "Weight": 4449
+  },
+  {
+    "Name": "Ruth",
+    "Type": "Female",
+    "Weight": 4416
+  },
+  {
+    "Name": "Gun-Britt",
+    "Type": "Female",
+    "Weight": 4408
+  },
+  {
+    "Name": "Beatrice",
+    "Type": "Female",
+    "Weight": 4392
+  },
+  {
+    "Name": "Emmy",
+    "Type": "Female",
+    "Weight": 4329
+  },
+  {
+    "Name": "Anne-Marie",
+    "Type": "Female",
+    "Weight": 4317
+  },
+  {
+    "Name": "Irma",
+    "Type": "Female",
+    "Weight": 4316
+  },
+  {
+    "Name": "Doris",
+    "Type": "Female",
+    "Weight": 4309
+  },
+  {
+    "Name": "Mari",
+    "Type": "Female",
+    "Weight": 4304
+  },
+  {
+    "Name": "Christine",
+    "Type": "Female",
+    "Weight": 4245
+  },
+  {
+    "Name": "Vilma",
+    "Type": "Female",
+    "Weight": 4227
+  },
+  {
+    "Name": "Therése",
+    "Type": "Female",
+    "Weight": 4225
+  },
+  {
+    "Name": "Ann-Britt",
+    "Type": "Female",
+    "Weight": 4179
+  },
+  {
+    "Name": "Michelle",
+    "Type": "Female",
+    "Weight": 4112
+  },
+  {
+    "Name": "Edith",
+    "Type": "Female",
+    "Weight": 4070
+  },
+  {
+    "Name": "Laura",
+    "Type": "Female",
+    "Weight": 3958
+  },
+  {
+    "Name": "Lotta",
+    "Type": "Female",
+    "Weight": 3948
+  },
+  {
+    "Name": "Michaela",
+    "Type": "Female",
+    "Weight": 3863
+  },
+  {
+    "Name": "Helén",
+    "Type": "Female",
+    "Weight": 3829
+  },
+  {
+    "Name": "Maryam",
+    "Type": "Female",
+    "Weight": 3823
+  },
+  {
+    "Name": "Mira",
+    "Type": "Female",
+    "Weight": 3807
+  },
+  {
+    "Name": "Melissa",
+    "Type": "Female",
+    "Weight": 3805
+  },
+  {
+    "Name": "Evy",
+    "Type": "Female",
+    "Weight": 3757
+  },
+  {
+    "Name": "Meja",
+    "Type": "Female",
+    "Weight": 3711
+  },
+  {
+    "Name": "Paula",
+    "Type": "Female",
+    "Weight": 3703
+  },
+  {
+    "Name": "Sophie",
+    "Type": "Female",
+    "Weight": 3700
+  },
+  {
+    "Name": "Ann-Kristin",
+    "Type": "Female",
+    "Weight": 3676
+  },
+  {
+    "Name": "Mariam",
+    "Type": "Female",
+    "Weight": 3658
+  },
+  {
+    "Name": "Thi",
+    "Type": "Female",
+    "Weight": 3647
+  },
+  {
+    "Name": "Elsie",
+    "Type": "Female",
+    "Weight": 3615
+  },
+  {
+    "Name": "Aina",
+    "Type": "Female",
+    "Weight": 3612
+  },
+  {
+    "Name": "Anja",
+    "Type": "Female",
+    "Weight": 3612
+  },
+  {
+    "Name": "Majken",
+    "Type": "Female",
+    "Weight": 3588
+  },
+  {
+    "Name": "Isabell",
+    "Type": "Female",
+    "Weight": 3582
+  },
+  {
+    "Name": "Inez",
+    "Type": "Female",
+    "Weight": 3533
+  },
+  {
+    "Name": "Elena",
+    "Type": "Female",
+    "Weight": 3508
+  },
+  {
+    "Name": "Marika",
+    "Type": "Female",
+    "Weight": 3484
+  },
+  {
+    "Name": "Patricia",
+    "Type": "Female",
+    "Weight": 3483
+  },
+  {
+    "Name": "Hedda",
+    "Type": "Female",
+    "Weight": 3453
+  },
+  {
+    "Name": "Minna",
+    "Type": "Female",
+    "Weight": 3442
+  },
+  {
+    "Name": "Ann-Christine",
+    "Type": "Female",
+    "Weight": 3434
+  },
+  {
+    "Name": "Harriet",
+    "Type": "Female",
+    "Weight": 3403
+  },
+  {
+    "Name": "Mary",
+    "Type": "Female",
+    "Weight": 3397
+  },
+  {
+    "Name": "Viola",
+    "Type": "Female",
+    "Weight": 3391
+  },
+  {
+    "Name": "Amina",
+    "Type": "Female",
+    "Weight": 3372
+  },
+  {
+    "Name": "Lea",
+    "Type": "Female",
+    "Weight": 3345
+  },
+  {
+    "Name": "Nelly",
+    "Type": "Female",
+    "Weight": 3345
+  },
+  {
+    "Name": "Ines",
+    "Type": "Female",
+    "Weight": 3333
+  },
+  {
+    "Name": "Zahra",
+    "Type": "Female",
+    "Weight": 3309
+  },
+  {
+    "Name": "Paulina",
+    "Type": "Female",
+    "Weight": 3303
+  },
+  {
+    "Name": "Gertrud",
+    "Type": "Female",
+    "Weight": 3259
+  },
+  {
+    "Name": "Livia",
+    "Type": "Female",
+    "Weight": 3233
+  },
+  {
+    "Name": "Hedvig",
+    "Type": "Female",
+    "Weight": 3227
+  },
+  {
+    "Name": "Joanna",
+    "Type": "Female",
+    "Weight": 3225
+  },
+  {
+    "Name": "Brita",
+    "Type": "Female",
+    "Weight": 3192
+  },
+  {
+    "Name": "Ann-Louise",
+    "Type": "Female",
+    "Weight": 3186
+  },
+  {
+    "Name": "Ingalill",
+    "Type": "Female",
+    "Weight": 3162
+  },
+  {
+    "Name": "Leah",
+    "Type": "Female",
+    "Weight": 3160
+  },
+  {
+    "Name": "Jane",
+    "Type": "Female",
+    "Weight": 3130
+  },
+  {
+    "Name": "Vanessa",
+    "Type": "Female",
+    "Weight": 3100
+  },
+  {
+    "Name": "Jasmine",
+    "Type": "Female",
+    "Weight": 3094
+  },
+  {
+    "Name": "Sylvia",
+    "Type": "Female",
+    "Weight": 3093
+  },
+  {
+    "Name": "Liselotte",
+    "Type": "Female",
+    "Weight": 3090
+  },
+  {
+    "Name": "Rita",
+    "Type": "Female",
+    "Weight": 3076
+  },
+  {
+    "Name": "Sally",
+    "Type": "Female",
+    "Weight": 3060
+  },
+  {
+    "Name": "Ing-Marie",
+    "Type": "Female",
+    "Weight": 3058
+  },
+  {
+    "Name": "Olga",
+    "Type": "Female",
+    "Weight": 3004
+  },
+  {
+    "Name": "Margaretha",
+    "Type": "Female",
+    "Weight": 2999
+  },
+  {
+    "Name": "Isabel",
+    "Type": "Female",
+    "Weight": 2980
+  },
+  {
+    "Name": "Miranda",
+    "Type": "Female",
+    "Weight": 2967
+  },
+  {
+    "Name": "Sophia",
+    "Type": "Female",
+    "Weight": 2942
+  },
+  {
+    "Name": "Christel",
+    "Type": "Female",
+    "Weight": 2932
+  },
+  {
+    "Name": "Ann-Mari",
+    "Type": "Female",
+    "Weight": 2924
+  },
+  {
+    "Name": "Amelia",
+    "Type": "Female",
+    "Weight": 2909
+  },
+  {
+    "Name": "Ana",
+    "Type": "Female",
+    "Weight": 2874
+  },
+  {
+    "Name": "Tova",
+    "Type": "Female",
+    "Weight": 2872
+  },
+  {
+    "Name": "Lily",
+    "Type": "Female",
+    "Weight": 2855
+  },
+  {
+    "Name": "Melina",
+    "Type": "Female",
+    "Weight": 2830
+  },
+  {
+    "Name": "Leia",
+    "Type": "Female",
+    "Weight": 2808
+  },
+  {
+    "Name": "Esther",
+    "Type": "Female",
+    "Weight": 2800
+  },
+  {
+    "Name": "Eva-Lena",
+    "Type": "Female",
+    "Weight": 2796
+  },
+  {
+    "Name": "Bianca",
+    "Type": "Female",
+    "Weight": 2793
+  },
+  {
+    "Name": "Asta",
+    "Type": "Female",
+    "Weight": 2789
+  },
+  {
+    "Name": "Mimmi",
+    "Type": "Female",
+    "Weight": 2771
+  },
+  {
+    "Name": "Vanja",
+    "Type": "Female",
+    "Weight": 2735
+  },
+  {
+    "Name": "Leila",
+    "Type": "Female",
+    "Weight": 2733
+  },
+  {
+    "Name": "Nadia",
+    "Type": "Female",
+    "Weight": 2732
+  },
+  {
+    "Name": "Liselott",
+    "Type": "Female",
+    "Weight": 2730
+  },
+  {
+    "Name": "Karina",
+    "Type": "Female",
+    "Weight": 2720
+  },
+  {
+    "Name": "Josephine",
+    "Type": "Female",
+    "Weight": 2685
+  },
+  {
+    "Name": "Gunhild",
+    "Type": "Female",
+    "Weight": 2678
+  },
+  {
+    "Name": "Hilma",
+    "Type": "Female",
+    "Weight": 2651
+  },
+  {
+    "Name": "Natalia",
+    "Type": "Female",
+    "Weight": 2639
+  },
+  {
+    "Name": "Juni",
+    "Type": "Female",
+    "Weight": 2626
+  },
+  {
+    "Name": "Ingegärd",
+    "Type": "Female",
+    "Weight": 2601
+  },
+  {
+    "Name": "Kim",
+    "Type": "Female",
+    "Weight": 2560
+  },
+  {
+    "Name": "Miriam",
+    "Type": "Female",
+    "Weight": 2511
+  },
+  {
+    "Name": "Marta",
+    "Type": "Female",
+    "Weight": 2507
+  },
+  {
+    "Name": "Heidi",
+    "Type": "Female",
+    "Weight": 2496
+  },
+  {
+    "Name": "Alina",
+    "Type": "Female",
+    "Weight": 2477
+  },
+  {
+    "Name": "Heléne",
+    "Type": "Female",
+    "Weight": 2463
+  },
+  {
+    "Name": "Katrin",
+    "Type": "Female",
+    "Weight": 2443
+  },
+  {
+    "Name": "Angela",
+    "Type": "Female",
+    "Weight": 2438
+  },
+  {
+    "Name": "Samira",
+    "Type": "Female",
+    "Weight": 2438
+  },
+  {
+    "Name": "Emily",
+    "Type": "Female",
+    "Weight": 2434
+  },
+  {
+    "Name": "Luna",
+    "Type": "Female",
+    "Weight": 2433
+  },
+  {
+    "Name": "Lisbet",
+    "Type": "Female",
+    "Weight": 2381
+  },
+  {
+    "Name": "Vendela",
+    "Type": "Female",
+    "Weight": 2375
+  },
+  {
+    "Name": "Maj-Lis",
+    "Type": "Female",
+    "Weight": 2321
+  },
+  {
+    "Name": "Marlene",
+    "Type": "Female",
+    "Weight": 2315
+  },
+  {
+    "Name": "Iréne",
+    "Type": "Female",
+    "Weight": 2312
+  },
+  {
+    "Name": "Inga-Britt",
+    "Type": "Female",
+    "Weight": 2310
+  },
+  {
+    "Name": "Daniela",
+    "Type": "Female",
+    "Weight": 2241
+  },
+  {
+    "Name": "Stephanie",
+    "Type": "Female",
+    "Weight": 2241
+  },
+  {
+    "Name": "Cassandra",
+    "Type": "Female",
+    "Weight": 2240
+  },
+  {
+    "Name": "Katja",
+    "Type": "Female",
+    "Weight": 2237
+  },
+  {
+    "Name": "Ulrica",
+    "Type": "Female",
+    "Weight": 2237
+  },
+  {
+    "Name": "Lykke",
+    "Type": "Female",
+    "Weight": 2220
+  },
+  {
+    "Name": "Joline",
+    "Type": "Female",
+    "Weight": 2213
+  },
+  {
+    "Name": "Barbara",
+    "Type": "Female",
+    "Weight": 2199
+  },
+  {
+    "Name": "Angelina",
+    "Type": "Female",
+    "Weight": 2197
+  },
+  {
+    "Name": "Ann-Sofi",
+    "Type": "Female",
+    "Weight": 2191
+  },
+  {
+    "Name": "Nadja",
+    "Type": "Female",
+    "Weight": 2189
+  },
+  {
+    "Name": "Susann",
+    "Type": "Female",
+    "Weight": 2168
+  },
+  {
+    "Name": "Lise-Lotte",
+    "Type": "Female",
+    "Weight": 2159
+  },
+  {
+    "Name": "Daniella",
+    "Type": "Female",
+    "Weight": 2155
+  },
+  {
+    "Name": "Veronika",
+    "Type": "Female",
+    "Weight": 2152
+  },
+  {
+    "Name": "Claudia",
+    "Type": "Female",
+    "Weight": 2151
+  },
+  {
+    "Name": "Gunborg",
+    "Type": "Female",
+    "Weight": 2151
+  },
+  {
+    "Name": "Tanja",
+    "Type": "Female",
+    "Weight": 2128
+  },
+  {
+    "Name": "Catrin",
+    "Type": "Female",
+    "Weight": 2126
+  },
+  {
+    "Name": "Denise",
+    "Type": "Female",
+    "Weight": 2110
+  },
+  {
+    "Name": "Ing-Britt",
+    "Type": "Female",
+    "Weight": 2043
+  },
+  {
+    "Name": "Valentina",
+    "Type": "Female",
+    "Weight": 2023
+  },
+  {
+    "Name": "Mila",
+    "Type": "Female",
+    "Weight": 1983
+  },
+  {
+    "Name": "Nour",
+    "Type": "Female",
+    "Weight": 1978
+  },
+  {
+    "Name": "Yasmin",
+    "Type": "Female",
+    "Weight": 1965
+  },
+  {
+    "Name": "Aisha",
+    "Type": "Female",
+    "Weight": 1955
+  },
+  {
+    "Name": "Ragnhild",
+    "Type": "Female",
+    "Weight": 1945
+  },
+  {
+    "Name": "Åse",
+    "Type": "Female",
+    "Weight": 1918
+  },
+  {
+    "Name": "Julie",
+    "Type": "Female",
+    "Weight": 1914
+  },
+  {
+    "Name": "Celine",
+    "Type": "Female",
+    "Weight": 1912
+  },
+  {
+    "Name": "Mariana",
+    "Type": "Female",
+    "Weight": 1909
+  },
+  {
+    "Name": "Elizabeth",
+    "Type": "Female",
+    "Weight": 1902
+  },
+  {
+    "Name": "Elsy",
+    "Type": "Female",
+    "Weight": 1897
+  },
+  {
+    "Name": "Amal",
+    "Type": "Female",
+    "Weight": 1896
+  },
+  {
+    "Name": "Hjördis",
+    "Type": "Female",
+    "Weight": 1895
+  },
+  {
+    "Name": "Suzanne",
+    "Type": "Female",
+    "Weight": 1888
+  },
+  {
+    "Name": "Aleksandra",
+    "Type": "Female",
+    "Weight": 1884
+  },
+  {
+    "Name": "Amelie",
+    "Type": "Female",
+    "Weight": 1881
+  },
+  {
+    "Name": "Amira",
+    "Type": "Female",
+    "Weight": 1876
+  },
+  {
+    "Name": "Edit",
+    "Type": "Female",
+    "Weight": 1848
+  },
+  {
+    "Name": "Britt-Mari",
+    "Type": "Female",
+    "Weight": 1844
+  },
+  {
+    "Name": "Lovis",
+    "Type": "Female",
+    "Weight": 1841
+  },
+  {
+    "Name": "Emilie",
+    "Type": "Female",
+    "Weight": 1830
+  },
+  {
+    "Name": "Isa",
+    "Type": "Female",
+    "Weight": 1829
+  },
+  {
+    "Name": "Susan",
+    "Type": "Female",
+    "Weight": 1826
+  },
+  {
+    "Name": "Milla",
+    "Type": "Female",
+    "Weight": 1805
+  },
+  {
+    "Name": "Lara",
+    "Type": "Female",
+    "Weight": 1802
+  },
+  {
+    "Name": "Elna",
+    "Type": "Female",
+    "Weight": 1798
+  },
+  {
+    "Name": "Lydia",
+    "Type": "Female",
+    "Weight": 1798
+  },
+  {
+    "Name": "Aya",
+    "Type": "Female",
+    "Weight": 1795
+  },
+  {
+    "Name": "Margot",
+    "Type": "Female",
+    "Weight": 1795
+  },
+  {
+    "Name": "Terese",
+    "Type": "Female",
+    "Weight": 1788
+  },
+  {
+    "Name": "Malva",
+    "Type": "Female",
+    "Weight": 1786
+  },
+  {
+    "Name": "Bella",
+    "Type": "Female",
+    "Weight": 1785
+  },
+  {
+    "Name": "Hillevi",
+    "Type": "Female",
+    "Weight": 1775
+  },
+  {
+    "Name": "Elly",
+    "Type": "Female",
+    "Weight": 1768
+  },
+  {
+    "Name": "Jasmin",
+    "Type": "Female",
+    "Weight": 1766
+  },
+  {
+    "Name": "Teresa",
+    "Type": "Female",
+    "Weight": 1765
+  },
+  {
+    "Name": "Cajsa",
+    "Type": "Female",
+    "Weight": 1757
+  },
+  {
+    "Name": "Jill",
+    "Type": "Female",
+    "Weight": 1754
+  },
+  {
+    "Name": "Iman",
+    "Type": "Female",
+    "Weight": 1749
+  },
+  {
+    "Name": "Mina",
+    "Type": "Female",
+    "Weight": 1749
+  },
+  {
+    "Name": "Rigmor",
+    "Type": "Female",
+    "Weight": 1745
+  },
+  {
+    "Name": "Elvy",
+    "Type": "Female",
+    "Weight": 1735
+  },
+  {
+    "Name": "Anna-Maria",
+    "Type": "Female",
+    "Weight": 1731
+  },
+  {
+    "Name": "Elma",
+    "Type": "Female",
+    "Weight": 1716
+  },
+  {
+    "Name": "Beata",
+    "Type": "Female",
+    "Weight": 1691
+  },
+  {
+    "Name": "Nancy",
+    "Type": "Female",
+    "Weight": 1674
+  },
+  {
+    "Name": "Aida",
+    "Type": "Female",
+    "Weight": 1668
+  },
+  {
+    "Name": "Zainab",
+    "Type": "Female",
+    "Weight": 1664
+  },
+  {
+    "Name": "Lana",
+    "Type": "Female",
+    "Weight": 1656
+  },
+  {
+    "Name": "Ritva",
+    "Type": "Female",
+    "Weight": 1647
+  },
+  {
+    "Name": "Janet",
+    "Type": "Female",
+    "Weight": 1640
+  },
+  {
+    "Name": "Irina",
+    "Type": "Female",
+    "Weight": 1634
+  },
+  {
+    "Name": "Lo",
+    "Type": "Female",
+    "Weight": 1621
+  },
+  {
+    "Name": "Ann-Charlott",
+    "Type": "Female",
+    "Weight": 1620
+  },
+  {
+    "Name": "Christin",
+    "Type": "Female",
+    "Weight": 1615
+  },
+  {
+    "Name": "Majvor",
+    "Type": "Female",
+    "Weight": 1602
+  },
+  {
+    "Name": "Cathrine",
+    "Type": "Female",
+    "Weight": 1587
+  },
+  {
+    "Name": "Hanan",
+    "Type": "Female",
+    "Weight": 1577
+  },
+  {
+    "Name": "Anna-Lisa",
+    "Type": "Female",
+    "Weight": 1575
+  },
+  {
+    "Name": "Katarzyna",
+    "Type": "Female",
+    "Weight": 1572
+  },
+  {
+    "Name": "Ann-Katrin",
+    "Type": "Female",
+    "Weight": 1569
+  },
+  {
+    "Name": "Rosa",
+    "Type": "Female",
+    "Weight": 1567
+  },
+  {
+    "Name": "Ingeborg",
+    "Type": "Female",
+    "Weight": 1558
+  },
+  {
+    "Name": "Nada",
+    "Type": "Female",
+    "Weight": 1555
+  },
+  {
+    "Name": "Marija",
+    "Type": "Female",
+    "Weight": 1550
+  },
+  {
+    "Name": "Simone",
+    "Type": "Female",
+    "Weight": 1547
+  },
+  {
+    "Name": "Melinda",
+    "Type": "Female",
+    "Weight": 1543
+  },
+  {
+    "Name": "Melanie",
+    "Type": "Female",
+    "Weight": 1542
+  },
+  {
+    "Name": "Tuula",
+    "Type": "Female",
+    "Weight": 1536
+  },
+  {
+    "Name": "Noomi",
+    "Type": "Female",
+    "Weight": 1532
+  },
+  {
+    "Name": "Lise-Lott",
+    "Type": "Female",
+    "Weight": 1524
+  },
+  {
+    "Name": "Dagny",
+    "Type": "Female",
+    "Weight": 1519
+  },
+  {
+    "Name": "Eva-Britt",
+    "Type": "Female",
+    "Weight": 1516
+  },
+  {
+    "Name": "Fatma",
+    "Type": "Female",
+    "Weight": 1514
+  },
+  {
+    "Name": "Eira",
+    "Type": "Female",
+    "Weight": 1513
+  },
+  {
+    "Name": "Cristina",
+    "Type": "Female",
+    "Weight": 1505
+  },
+  {
+    "Name": "Mariann",
+    "Type": "Female",
+    "Weight": 1501
+  },
+  {
+    "Name": "Pauline",
+    "Type": "Female",
+    "Weight": 1499
+  },
+  {
+    "Name": "Noor",
+    "Type": "Female",
+    "Weight": 1486
+  },
+  {
+    "Name": "Izabella",
+    "Type": "Female",
+    "Weight": 1483
+  },
+  {
+    "Name": "Anna-Carin",
+    "Type": "Female",
+    "Weight": 1477
+  },
+  {
+    "Name": "Engla",
+    "Type": "Female",
+    "Weight": 1469
+  },
+  {
+    "Name": "Emmie",
+    "Type": "Female",
+    "Weight": 1464
+  },
+  {
+    "Name": "Salma",
+    "Type": "Female",
+    "Weight": 1461
+  },
+  {
+    "Name": "Smilla",
+    "Type": "Female",
+    "Weight": 1452
+  },
+  {
+    "Name": "Gisela",
+    "Type": "Female",
+    "Weight": 1450
+  },
+  {
+    "Name": "Britt-Inger",
+    "Type": "Female",
+    "Weight": 1449
+  },
+  {
+    "Name": "Elinor",
+    "Type": "Female",
+    "Weight": 1448
+  },
+  {
+    "Name": "Carolin",
+    "Type": "Female",
+    "Weight": 1441
+  },
+  {
+    "Name": "Jana",
+    "Type": "Female",
+    "Weight": 1430
+  },
+  {
+    "Name": "Dagmar",
+    "Type": "Female",
+    "Weight": 1428
+  },
+  {
+    "Name": "Evelyn",
+    "Type": "Female",
+    "Weight": 1428
+  },
+  {
+    "Name": "Marit",
+    "Type": "Female",
+    "Weight": 1428
+  },
+  {
+    "Name": "Leona",
+    "Type": "Female",
+    "Weight": 1427
+  },
+  {
+    "Name": "Boel",
+    "Type": "Female",
+    "Weight": 1425
+  },
+  {
+    "Name": "Marielle",
+    "Type": "Female",
+    "Weight": 1425
+  },
+  {
+    "Name": "Leena",
+    "Type": "Female",
+    "Weight": 1424
+  },
+  {
+    "Name": "Sonia",
+    "Type": "Female",
+    "Weight": 1419
+  },
+  {
+    "Name": "Angelika",
+    "Type": "Female",
+    "Weight": 1417
+  },
+  {
+    "Name": "Tea",
+    "Type": "Female",
+    "Weight": 1415
+  },
+  {
+    "Name": "Fredrika",
+    "Type": "Female",
+    "Weight": 1414
+  },
+  {
+    "Name": "Marja",
+    "Type": "Female",
+    "Weight": 1414
+  },
+  {
+    "Name": "Agnieszka",
+    "Type": "Female",
+    "Weight": 1408
+  },
+  {
+    "Name": "Hala",
+    "Type": "Female",
+    "Weight": 1402
+  },
+  {
+    "Name": "Elisa",
+    "Type": "Female",
+    "Weight": 1401
+  },
+  {
+    "Name": "Jessika",
+    "Type": "Female",
+    "Weight": 1396
+  },
+  {
+    "Name": "Sofi",
+    "Type": "Female",
+    "Weight": 1394
+  },
+  {
+    "Name": "May",
+    "Type": "Female",
+    "Weight": 1391
+  },
+  {
+    "Name": "Ina",
+    "Type": "Female",
+    "Weight": 1383
+  },
+  {
+    "Name": "Viveka",
+    "Type": "Female",
+    "Weight": 1378
+  },
+  {
+    "Name": "Eva-Lotta",
+    "Type": "Female",
+    "Weight": 1372
+  },
+  {
+    "Name": "Antonia",
+    "Type": "Female",
+    "Weight": 1362
+  },
+  {
+    "Name": "Li",
+    "Type": "Female",
+    "Weight": 1355
+  },
+  {
+    "Name": "Rana",
+    "Type": "Female",
+    "Weight": 1355
+  },
+  {
+    "Name": "Regina",
+    "Type": "Female",
+    "Weight": 1355
+  },
+  {
+    "Name": "Tora",
+    "Type": "Female",
+    "Weight": 1352
+  },
+  {
+    "Name": "Judith",
+    "Type": "Female",
+    "Weight": 1351
+  },
+  {
+    "Name": "Pirjo",
+    "Type": "Female",
+    "Weight": 1346
+  },
+  {
+    "Name": "Eila",
+    "Type": "Female",
+    "Weight": 1340
+  },
+  {
+    "Name": "Jasmina",
+    "Type": "Female",
+    "Weight": 1338
+  },
+  {
+    "Name": "Jacqueline",
+    "Type": "Female",
+    "Weight": 1337
+  },
+  {
+    "Name": "Helga",
+    "Type": "Female",
+    "Weight": 1335
+  },
+  {
+    "Name": "Gunbritt",
+    "Type": "Female",
+    "Weight": 1331
+  },
+  {
+    "Name": "Disa",
+    "Type": "Female",
+    "Weight": 1330
+  },
+  {
+    "Name": "Idun",
+    "Type": "Female",
+    "Weight": 1313
+  },
+  {
+    "Name": "Gabriela",
+    "Type": "Female",
+    "Weight": 1312
+  },
+  {
+    "Name": "Katharina",
+    "Type": "Female",
+    "Weight": 1302
+  },
+  {
+    "Name": "Eleonor",
+    "Type": "Female",
+    "Weight": 1301
+  },
+  {
+    "Name": "Fatemeh",
+    "Type": "Female",
+    "Weight": 1300
+  },
+  {
+    "Name": "Gull-Britt",
+    "Type": "Female",
+    "Weight": 1292
+  },
+  {
+    "Name": "Gunn",
+    "Type": "Female",
+    "Weight": 1284
+  },
+  {
+    "Name": "Jelena",
+    "Type": "Female",
+    "Weight": 1273
+  },
+  {
+    "Name": "Josefina",
+    "Type": "Female",
+    "Weight": 1273
+  },
+  {
+    "Name": "Ethel",
+    "Type": "Female",
+    "Weight": 1272
+  },
+  {
+    "Name": "Malgorzata",
+    "Type": "Female",
+    "Weight": 1270
+  },
+  {
+    "Name": "Aurora",
+    "Type": "Female",
+    "Weight": 1266
+  },
+  {
+    "Name": "Anastasia",
+    "Type": "Female",
+    "Weight": 1254
+  },
+  {
+    "Name": "Nike",
+    "Type": "Female",
+    "Weight": 1248
+  },
+  {
+    "Name": "Mirjam",
+    "Type": "Female",
+    "Weight": 1237
+  },
+  {
+    "Name": "Hana",
+    "Type": "Female",
+    "Weight": 1222
+  },
+  {
+    "Name": "Tarja",
+    "Type": "Female",
+    "Weight": 1216
+  },
+  {
+    "Name": "Liza",
+    "Type": "Female",
+    "Weight": 1214
+  },
+  {
+    "Name": "Dina",
+    "Type": "Female",
+    "Weight": 1213
+  }
+]

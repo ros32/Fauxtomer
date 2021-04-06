@@ -1,0 +1,2572 @@
+[
+  {
+    "Name": "Lars",
+    "Type": "Male",
+    "Weight": 83360
+  },
+  {
+    "Name": "Anders",
+    "Type": "Male",
+    "Weight": 76812
+  },
+  {
+    "Name": "Johan",
+    "Type": "Male",
+    "Weight": 73657
+  },
+  {
+    "Name": "Peter",
+    "Type": "Male",
+    "Weight": 61624
+  },
+  {
+    "Name": "Jan",
+    "Type": "Male",
+    "Weight": 57832
+  },
+  {
+    "Name": "Daniel",
+    "Type": "Male",
+    "Weight": 56676
+  },
+  {
+    "Name": "Mikael",
+    "Type": "Male",
+    "Weight": 56053
+  },
+  {
+    "Name": "Erik",
+    "Type": "Male",
+    "Weight": 55968
+  },
+  {
+    "Name": "Per",
+    "Type": "Male",
+    "Weight": 55952
+  },
+  {
+    "Name": "Fredrik",
+    "Type": "Male",
+    "Weight": 51755
+  },
+  {
+    "Name": "Hans",
+    "Type": "Male",
+    "Weight": 45262
+  },
+  {
+    "Name": "Andreas",
+    "Type": "Male",
+    "Weight": 43896
+  },
+  {
+    "Name": "Stefan",
+    "Type": "Male",
+    "Weight": 43746
+  },
+  {
+    "Name": "Magnus",
+    "Type": "Male",
+    "Weight": 41642
+  },
+  {
+    "Name": "Mats",
+    "Type": "Male",
+    "Weight": 40842
+  },
+  {
+    "Name": "Jonas",
+    "Type": "Male",
+    "Weight": 40186
+  },
+  {
+    "Name": "Bengt",
+    "Type": "Male",
+    "Weight": 39590
+  },
+  {
+    "Name": "Alexander",
+    "Type": "Male",
+    "Weight": 39052
+  },
+  {
+    "Name": "Martin",
+    "Type": "Male",
+    "Weight": 39027
+  },
+  {
+    "Name": "Thomas",
+    "Type": "Male",
+    "Weight": 37722
+  },
+  {
+    "Name": "Bo",
+    "Type": "Male",
+    "Weight": 37535
+  },
+  {
+    "Name": "Karl",
+    "Type": "Male",
+    "Weight": 36689
+  },
+  {
+    "Name": "Nils",
+    "Type": "Male",
+    "Weight": 35687
+  },
+  {
+    "Name": "Björn",
+    "Type": "Male",
+    "Weight": 34656
+  },
+  {
+    "Name": "Leif",
+    "Type": "Male",
+    "Weight": 33083
+  },
+  {
+    "Name": "David",
+    "Type": "Male",
+    "Weight": 32606
+  },
+  {
+    "Name": "Emil",
+    "Type": "Male",
+    "Weight": 31798
+  },
+  {
+    "Name": "Ulf",
+    "Type": "Male",
+    "Weight": 31585
+  },
+  {
+    "Name": "Sven",
+    "Type": "Male",
+    "Weight": 31115
+  },
+  {
+    "Name": "Simon",
+    "Type": "Male",
+    "Weight": 30970
+  },
+  {
+    "Name": "Henrik",
+    "Type": "Male",
+    "Weight": 30588
+  },
+  {
+    "Name": "Mattias",
+    "Type": "Male",
+    "Weight": 30240
+  },
+  {
+    "Name": "Marcus",
+    "Type": "Male",
+    "Weight": 29666
+  },
+  {
+    "Name": "Anton",
+    "Type": "Male",
+    "Weight": 28256
+  },
+  {
+    "Name": "Patrik",
+    "Type": "Male",
+    "Weight": 27947
+  },
+  {
+    "Name": "Robert",
+    "Type": "Male",
+    "Weight": 27200
+  },
+  {
+    "Name": "William",
+    "Type": "Male",
+    "Weight": 27145
+  },
+  {
+    "Name": "Kjell",
+    "Type": "Male",
+    "Weight": 26700
+  },
+  {
+    "Name": "Joakim",
+    "Type": "Male",
+    "Weight": 26270
+  },
+  {
+    "Name": "Håkan",
+    "Type": "Male",
+    "Weight": 25508
+  },
+  {
+    "Name": "Tommy",
+    "Type": "Male",
+    "Weight": 24809
+  },
+  {
+    "Name": "Göran",
+    "Type": "Male",
+    "Weight": 24544
+  },
+  {
+    "Name": "Christer",
+    "Type": "Male",
+    "Weight": 24440
+  },
+  {
+    "Name": "Adam",
+    "Type": "Male",
+    "Weight": 24406
+  },
+  {
+    "Name": "Carl",
+    "Type": "Male",
+    "Weight": 24070
+  },
+  {
+    "Name": "Rolf",
+    "Type": "Male",
+    "Weight": 23330
+  },
+  {
+    "Name": "Lennart",
+    "Type": "Male",
+    "Weight": 22976
+  },
+  {
+    "Name": "Robin",
+    "Type": "Male",
+    "Weight": 22667
+  },
+  {
+    "Name": "Niklas",
+    "Type": "Male",
+    "Weight": 22408
+  },
+  {
+    "Name": "Oscar",
+    "Type": "Male",
+    "Weight": 22384
+  },
+  {
+    "Name": "Sebastian",
+    "Type": "Male",
+    "Weight": 22113
+  },
+  {
+    "Name": "Elias",
+    "Type": "Male",
+    "Weight": 22040
+  },
+  {
+    "Name": "Tobias",
+    "Type": "Male",
+    "Weight": 21799
+  },
+  {
+    "Name": "John",
+    "Type": "Male",
+    "Weight": 21195
+  },
+  {
+    "Name": "Tomas",
+    "Type": "Male",
+    "Weight": 21093
+  },
+  {
+    "Name": "Gustav",
+    "Type": "Male",
+    "Weight": 21044
+  },
+  {
+    "Name": "Stig",
+    "Type": "Male",
+    "Weight": 20800
+  },
+  {
+    "Name": "Michael",
+    "Type": "Male",
+    "Weight": 20540
+  },
+  {
+    "Name": "Filip",
+    "Type": "Male",
+    "Weight": 20135
+  },
+  {
+    "Name": "Axel",
+    "Type": "Male",
+    "Weight": 20121
+  },
+  {
+    "Name": "Linus",
+    "Type": "Male",
+    "Weight": 19945
+  },
+  {
+    "Name": "Christian",
+    "Type": "Male",
+    "Weight": 19800
+  },
+  {
+    "Name": "Viktor",
+    "Type": "Male",
+    "Weight": 19528
+  },
+  {
+    "Name": "Hugo",
+    "Type": "Male",
+    "Weight": 19035
+  },
+  {
+    "Name": "Roger",
+    "Type": "Male",
+    "Weight": 18570
+  },
+  {
+    "Name": "Oskar",
+    "Type": "Male",
+    "Weight": 18409
+  },
+  {
+    "Name": "Jonathan",
+    "Type": "Male",
+    "Weight": 17573
+  },
+  {
+    "Name": "Jesper",
+    "Type": "Male",
+    "Weight": 17455
+  },
+  {
+    "Name": "Oliver",
+    "Type": "Male",
+    "Weight": 17263
+  },
+  {
+    "Name": "Albin",
+    "Type": "Male",
+    "Weight": 17077
+  },
+  {
+    "Name": "Kent",
+    "Type": "Male",
+    "Weight": 16505
+  },
+  {
+    "Name": "Rasmus",
+    "Type": "Male",
+    "Weight": 16177
+  },
+  {
+    "Name": "Ali",
+    "Type": "Male",
+    "Weight": 15948
+  },
+  {
+    "Name": "Max",
+    "Type": "Male",
+    "Weight": 15923
+  },
+  {
+    "Name": "Jörgen",
+    "Type": "Male",
+    "Weight": 15572
+  },
+  {
+    "Name": "Joel",
+    "Type": "Male",
+    "Weight": 15140
+  },
+  {
+    "Name": "Gunnar",
+    "Type": "Male",
+    "Weight": 14850
+  },
+  {
+    "Name": "Victor",
+    "Type": "Male",
+    "Weight": 14561
+  },
+  {
+    "Name": "Olle",
+    "Type": "Male",
+    "Weight": 14105
+  },
+  {
+    "Name": "Liam",
+    "Type": "Male",
+    "Weight": 14065
+  },
+  {
+    "Name": "Lucas",
+    "Type": "Male",
+    "Weight": 13800
+  },
+  {
+    "Name": "Leo",
+    "Type": "Male",
+    "Weight": 13724
+  },
+  {
+    "Name": "Jimmy",
+    "Type": "Male",
+    "Weight": 13383
+  },
+  {
+    "Name": "Åke",
+    "Type": "Male",
+    "Weight": 13345
+  },
+  {
+    "Name": "Pontus",
+    "Type": "Male",
+    "Weight": 13287
+  },
+  {
+    "Name": "Markus",
+    "Type": "Male",
+    "Weight": 13103
+  },
+  {
+    "Name": "Mohammad",
+    "Type": "Male",
+    "Weight": 13063
+  },
+  {
+    "Name": "Kenneth",
+    "Type": "Male",
+    "Weight": 12812
+  },
+  {
+    "Name": "Samuel",
+    "Type": "Male",
+    "Weight": 12737
+  },
+  {
+    "Name": "Kevin",
+    "Type": "Male",
+    "Weight": 12470
+  },
+  {
+    "Name": "Dennis",
+    "Type": "Male",
+    "Weight": 12463
+  },
+  {
+    "Name": "Christoffer",
+    "Type": "Male",
+    "Weight": 12293
+  },
+  {
+    "Name": "Gabriel",
+    "Type": "Male",
+    "Weight": 12189
+  },
+  {
+    "Name": "Arvid",
+    "Type": "Male",
+    "Weight": 12186
+  },
+  {
+    "Name": "Felix",
+    "Type": "Male",
+    "Weight": 12127
+  },
+  {
+    "Name": "Isak",
+    "Type": "Male",
+    "Weight": 12092
+  },
+  {
+    "Name": "Philip",
+    "Type": "Male",
+    "Weight": 12090
+  },
+  {
+    "Name": "Lukas",
+    "Type": "Male",
+    "Weight": 11669
+  },
+  {
+    "Name": "Dan",
+    "Type": "Male",
+    "Weight": 11505
+  },
+  {
+    "Name": "Hampus",
+    "Type": "Male",
+    "Weight": 11388
+  },
+  {
+    "Name": "Rickard",
+    "Type": "Male",
+    "Weight": 11304
+  },
+  {
+    "Name": "Torbjörn",
+    "Type": "Male",
+    "Weight": 11220
+  },
+  {
+    "Name": "Ludvig",
+    "Type": "Male",
+    "Weight": 11206
+  },
+  {
+    "Name": "Olof",
+    "Type": "Male",
+    "Weight": 10923
+  },
+  {
+    "Name": "Jacob",
+    "Type": "Male",
+    "Weight": 10854
+  },
+  {
+    "Name": "Jens",
+    "Type": "Male",
+    "Weight": 10835
+  },
+  {
+    "Name": "Benjamin",
+    "Type": "Male",
+    "Weight": 10813
+  },
+  {
+    "Name": "Kurt",
+    "Type": "Male",
+    "Weight": 10784
+  },
+  {
+    "Name": "Arne",
+    "Type": "Male",
+    "Weight": 10754
+  },
+  {
+    "Name": "Jakob",
+    "Type": "Male",
+    "Weight": 10478
+  },
+  {
+    "Name": "Bertil",
+    "Type": "Male",
+    "Weight": 10174
+  },
+  {
+    "Name": "Johannes",
+    "Type": "Male",
+    "Weight": 10106
+  },
+  {
+    "Name": "Mohamed",
+    "Type": "Male",
+    "Weight": 10067
+  },
+  {
+    "Name": "Roland",
+    "Type": "Male",
+    "Weight": 10031
+  },
+  {
+    "Name": "Adrian",
+    "Type": "Male",
+    "Weight": 9868
+  },
+  {
+    "Name": "Noah",
+    "Type": "Male",
+    "Weight": 9855
+  },
+  {
+    "Name": "Mathias",
+    "Type": "Male",
+    "Weight": 9817
+  },
+  {
+    "Name": "Niclas",
+    "Type": "Male",
+    "Weight": 9811
+  },
+  {
+    "Name": "Alfred",
+    "Type": "Male",
+    "Weight": 9737
+  },
+  {
+    "Name": "Vincent",
+    "Type": "Male",
+    "Weight": 9731
+  },
+  {
+    "Name": "Tony",
+    "Type": "Male",
+    "Weight": 9661
+  },
+  {
+    "Name": "Ahmad",
+    "Type": "Male",
+    "Weight": 9602
+  },
+  {
+    "Name": "Ola",
+    "Type": "Male",
+    "Weight": 9548
+  },
+  {
+    "Name": "Charlie",
+    "Type": "Male",
+    "Weight": 9436
+  },
+  {
+    "Name": "Eric",
+    "Type": "Male",
+    "Weight": 9407
+  },
+  {
+    "Name": "Claes",
+    "Type": "Male",
+    "Weight": 9350
+  },
+  {
+    "Name": "Edvin",
+    "Type": "Male",
+    "Weight": 9154
+  },
+  {
+    "Name": "Richard",
+    "Type": "Male",
+    "Weight": 9086
+  },
+  {
+    "Name": "Sten",
+    "Type": "Male",
+    "Weight": 9048
+  },
+  {
+    "Name": "Ahmed",
+    "Type": "Male",
+    "Weight": 8846
+  },
+  {
+    "Name": "Mohammed",
+    "Type": "Male",
+    "Weight": 8742
+  },
+  {
+    "Name": "Alf",
+    "Type": "Male",
+    "Weight": 8668
+  },
+  {
+    "Name": "Tim",
+    "Type": "Male",
+    "Weight": 8579
+  },
+  {
+    "Name": "Theo",
+    "Type": "Male",
+    "Weight": 8557
+  },
+  {
+    "Name": "Kim",
+    "Type": "Male",
+    "Weight": 8356
+  },
+  {
+    "Name": "Conny",
+    "Type": "Male",
+    "Weight": 8236
+  },
+  {
+    "Name": "Elliot",
+    "Type": "Male",
+    "Weight": 8194
+  },
+  {
+    "Name": "Bernt",
+    "Type": "Male",
+    "Weight": 8164
+  },
+  {
+    "Name": "Ove",
+    "Type": "Male",
+    "Weight": 8047
+  },
+  {
+    "Name": "Pär",
+    "Type": "Male",
+    "Weight": 7819
+  },
+  {
+    "Name": "Ingemar",
+    "Type": "Male",
+    "Weight": 7521
+  },
+  {
+    "Name": "Mohamad",
+    "Type": "Male",
+    "Weight": 7446
+  },
+  {
+    "Name": "Nicklas",
+    "Type": "Male",
+    "Weight": 7212
+  },
+  {
+    "Name": "Kristoffer",
+    "Type": "Male",
+    "Weight": 7183
+  },
+  {
+    "Name": "Leon",
+    "Type": "Male",
+    "Weight": 7154
+  },
+  {
+    "Name": "Melvin",
+    "Type": "Male",
+    "Weight": 7092
+  },
+  {
+    "Name": "Harry",
+    "Type": "Male",
+    "Weight": 6982
+  },
+  {
+    "Name": "Staffan",
+    "Type": "Male",
+    "Weight": 6910
+  },
+  {
+    "Name": "Johnny",
+    "Type": "Male",
+    "Weight": 6848
+  },
+  {
+    "Name": "Krister",
+    "Type": "Male",
+    "Weight": 6831
+  },
+  {
+    "Name": "Gustaf",
+    "Type": "Male",
+    "Weight": 6821
+  },
+  {
+    "Name": "Melker",
+    "Type": "Male",
+    "Weight": 6682
+  },
+  {
+    "Name": "Viggo",
+    "Type": "Male",
+    "Weight": 6659
+  },
+  {
+    "Name": "Rune",
+    "Type": "Male",
+    "Weight": 6603
+  },
+  {
+    "Name": "Börje",
+    "Type": "Male",
+    "Weight": 6507
+  },
+  {
+    "Name": "Ronny",
+    "Type": "Male",
+    "Weight": 6497
+  },
+  {
+    "Name": "André",
+    "Type": "Male",
+    "Weight": 6423
+  },
+  {
+    "Name": "Malte",
+    "Type": "Male",
+    "Weight": 6413
+  },
+  {
+    "Name": "Jack",
+    "Type": "Male",
+    "Weight": 6336
+  },
+  {
+    "Name": "Alex",
+    "Type": "Male",
+    "Weight": 6334
+  },
+  {
+    "Name": "Benny",
+    "Type": "Male",
+    "Weight": 6235
+  },
+  {
+    "Name": "Sören",
+    "Type": "Male",
+    "Weight": 6136
+  },
+  {
+    "Name": "Omar",
+    "Type": "Male",
+    "Weight": 6122
+  },
+  {
+    "Name": "Sixten",
+    "Type": "Male",
+    "Weight": 6116
+  },
+  {
+    "Name": "Ibrahim",
+    "Type": "Male",
+    "Weight": 6073
+  },
+  {
+    "Name": "Paul",
+    "Type": "Male",
+    "Weight": 6069
+  },
+  {
+    "Name": "Tom",
+    "Type": "Male",
+    "Weight": 6065
+  },
+  {
+    "Name": "Frank",
+    "Type": "Male",
+    "Weight": 6036
+  },
+  {
+    "Name": "Noel",
+    "Type": "Male",
+    "Weight": 5998
+  },
+  {
+    "Name": "Jonny",
+    "Type": "Male",
+    "Weight": 5954
+  },
+  {
+    "Name": "Kristian",
+    "Type": "Male",
+    "Weight": 5954
+  },
+  {
+    "Name": "Klas",
+    "Type": "Male",
+    "Weight": 5930
+  },
+  {
+    "Name": "Sam",
+    "Type": "Male",
+    "Weight": 5930
+  },
+  {
+    "Name": "Theodor",
+    "Type": "Male",
+    "Weight": 5922
+  },
+  {
+    "Name": "Casper",
+    "Type": "Male",
+    "Weight": 5821
+  },
+  {
+    "Name": "Henry",
+    "Type": "Male",
+    "Weight": 5717
+  },
+  {
+    "Name": "August",
+    "Type": "Male",
+    "Weight": 5618
+  },
+  {
+    "Name": "Morgan",
+    "Type": "Male",
+    "Weight": 5612
+  },
+  {
+    "Name": "Alvin",
+    "Type": "Male",
+    "Weight": 5599
+  },
+  {
+    "Name": "Christopher",
+    "Type": "Male",
+    "Weight": 5599
+  },
+  {
+    "Name": "Hannes",
+    "Type": "Male",
+    "Weight": 5590
+  },
+  {
+    "Name": "Josef",
+    "Type": "Male",
+    "Weight": 5476
+  },
+  {
+    "Name": "Jonatan",
+    "Type": "Male",
+    "Weight": 5427
+  },
+  {
+    "Name": "Petter",
+    "Type": "Male",
+    "Weight": 5376
+  },
+  {
+    "Name": "Urban",
+    "Type": "Male",
+    "Weight": 5340
+  },
+  {
+    "Name": "Ludwig",
+    "Type": "Male",
+    "Weight": 5266
+  },
+  {
+    "Name": "Jan-Erik",
+    "Type": "Male",
+    "Weight": 5255
+  },
+  {
+    "Name": "Ingvar",
+    "Type": "Male",
+    "Weight": 5209
+  },
+  {
+    "Name": "Love",
+    "Type": "Male",
+    "Weight": 5153
+  },
+  {
+    "Name": "Gert",
+    "Type": "Male",
+    "Weight": 5147
+  },
+  {
+    "Name": "Rikard",
+    "Type": "Male",
+    "Weight": 5129
+  },
+  {
+    "Name": "Tore",
+    "Type": "Male",
+    "Weight": 5029
+  },
+  {
+    "Name": "Pierre",
+    "Type": "Male",
+    "Weight": 4979
+  },
+  {
+    "Name": "Svante",
+    "Type": "Male",
+    "Weight": 4956
+  },
+  {
+    "Name": "Tage",
+    "Type": "Male",
+    "Weight": 4949
+  },
+  {
+    "Name": "Lars-Erik",
+    "Type": "Male",
+    "Weight": 4885
+  },
+  {
+    "Name": "Tord",
+    "Type": "Male",
+    "Weight": 4809
+  },
+  {
+    "Name": "Mustafa",
+    "Type": "Male",
+    "Weight": 4793
+  },
+  {
+    "Name": "Amir",
+    "Type": "Male",
+    "Weight": 4769
+  },
+  {
+    "Name": "Måns",
+    "Type": "Male",
+    "Weight": 4676
+  },
+  {
+    "Name": "Otto",
+    "Type": "Male",
+    "Weight": 4676
+  },
+  {
+    "Name": "Fabian",
+    "Type": "Male",
+    "Weight": 4623
+  },
+  {
+    "Name": "Sune",
+    "Type": "Male",
+    "Weight": 4604
+  },
+  {
+    "Name": "Gösta",
+    "Type": "Male",
+    "Weight": 4499
+  },
+  {
+    "Name": "Knut",
+    "Type": "Male",
+    "Weight": 4462
+  },
+  {
+    "Name": "Hassan",
+    "Type": "Male",
+    "Weight": 4402
+  },
+  {
+    "Name": "Patrick",
+    "Type": "Male",
+    "Weight": 4336
+  },
+  {
+    "Name": "Bror",
+    "Type": "Male",
+    "Weight": 4319
+  },
+  {
+    "Name": "Ivan",
+    "Type": "Male",
+    "Weight": 4294
+  },
+  {
+    "Name": "Ebbe",
+    "Type": "Male",
+    "Weight": 4273
+  },
+  {
+    "Name": "Isac",
+    "Type": "Male",
+    "Weight": 4194
+  },
+  {
+    "Name": "Vidar",
+    "Type": "Male",
+    "Weight": 4142
+  },
+  {
+    "Name": "Ivar",
+    "Type": "Male",
+    "Weight": 4083
+  },
+  {
+    "Name": "Sture",
+    "Type": "Male",
+    "Weight": 4068
+  },
+  {
+    "Name": "Jim",
+    "Type": "Male",
+    "Weight": 3986
+  },
+  {
+    "Name": "Eddie",
+    "Type": "Male",
+    "Weight": 3954
+  },
+  {
+    "Name": "Valter",
+    "Type": "Male",
+    "Weight": 3895
+  },
+  {
+    "Name": "Frans",
+    "Type": "Male",
+    "Weight": 3883
+  },
+  {
+    "Name": "Ted",
+    "Type": "Male",
+    "Weight": 3877
+  },
+  {
+    "Name": "Loke",
+    "Type": "Male",
+    "Weight": 3862
+  },
+  {
+    "Name": "Wilmer",
+    "Type": "Male",
+    "Weight": 3855
+  },
+  {
+    "Name": "Folke",
+    "Type": "Male",
+    "Weight": 3809
+  },
+  {
+    "Name": "Milo",
+    "Type": "Male",
+    "Weight": 3713
+  },
+  {
+    "Name": "Jerry",
+    "Type": "Male",
+    "Weight": 3562
+  },
+  {
+    "Name": "Milton",
+    "Type": "Male",
+    "Weight": 3556
+  },
+  {
+    "Name": "Per-Olof",
+    "Type": "Male",
+    "Weight": 3540
+  },
+  {
+    "Name": "Torsten",
+    "Type": "Male",
+    "Weight": 3540
+  },
+  {
+    "Name": "Wilhelm",
+    "Type": "Male",
+    "Weight": 3530
+  },
+  {
+    "Name": "Allan",
+    "Type": "Male",
+    "Weight": 3509
+  },
+  {
+    "Name": "Mahmoud",
+    "Type": "Male",
+    "Weight": 3489
+  },
+  {
+    "Name": "Elis",
+    "Type": "Male",
+    "Weight": 3473
+  },
+  {
+    "Name": "Muhammad",
+    "Type": "Male",
+    "Weight": 3470
+  },
+  {
+    "Name": "Sigge",
+    "Type": "Male",
+    "Weight": 3450
+  },
+  {
+    "Name": "Elton",
+    "Type": "Male",
+    "Weight": 3425
+  },
+  {
+    "Name": "Emanuel",
+    "Type": "Male",
+    "Weight": 3417
+  },
+  {
+    "Name": "Lars-Göran",
+    "Type": "Male",
+    "Weight": 3411
+  },
+  {
+    "Name": "Neo",
+    "Type": "Male",
+    "Weight": 3391
+  },
+  {
+    "Name": "Bert",
+    "Type": "Male",
+    "Weight": 3382
+  },
+  {
+    "Name": "Jon",
+    "Type": "Male",
+    "Weight": 3381
+  },
+  {
+    "Name": "Joachim",
+    "Type": "Male",
+    "Weight": 3348
+  },
+  {
+    "Name": "Hjalmar",
+    "Type": "Male",
+    "Weight": 3331
+  },
+  {
+    "Name": "Hussein",
+    "Type": "Male",
+    "Weight": 3327
+  },
+  {
+    "Name": "Kaj",
+    "Type": "Male",
+    "Weight": 3304
+  },
+  {
+    "Name": "Walter",
+    "Type": "Male",
+    "Weight": 3297
+  },
+  {
+    "Name": "Albert",
+    "Type": "Male",
+    "Weight": 3282
+  },
+  {
+    "Name": "Aron",
+    "Type": "Male",
+    "Weight": 3280
+  },
+  {
+    "Name": "Maximilian",
+    "Type": "Male",
+    "Weight": 3258
+  },
+  {
+    "Name": "Edwin",
+    "Type": "Male",
+    "Weight": 3237
+  },
+  {
+    "Name": "Mårten",
+    "Type": "Male",
+    "Weight": 3068
+  },
+  {
+    "Name": "Julian",
+    "Type": "Male",
+    "Weight": 3060
+  },
+  {
+    "Name": "Glenn",
+    "Type": "Male",
+    "Weight": 3040
+  },
+  {
+    "Name": "Dick",
+    "Type": "Male",
+    "Weight": 3020
+  },
+  {
+    "Name": "Ville",
+    "Type": "Male",
+    "Weight": 3014
+  },
+  {
+    "Name": "Örjan",
+    "Type": "Male",
+    "Weight": 3013
+  },
+  {
+    "Name": "Vilgot",
+    "Type": "Male",
+    "Weight": 2901
+  },
+  {
+    "Name": "Peder",
+    "Type": "Male",
+    "Weight": 2892
+  },
+  {
+    "Name": "Julius",
+    "Type": "Male",
+    "Weight": 2880
+  },
+  {
+    "Name": "Olov",
+    "Type": "Male",
+    "Weight": 2871
+  },
+  {
+    "Name": "Ture",
+    "Type": "Male",
+    "Weight": 2855
+  },
+  {
+    "Name": "Douglas",
+    "Type": "Male",
+    "Weight": 2837
+  },
+  {
+    "Name": "George",
+    "Type": "Male",
+    "Weight": 2825
+  },
+  {
+    "Name": "Inge",
+    "Type": "Male",
+    "Weight": 2818
+  },
+  {
+    "Name": "Kenth",
+    "Type": "Male",
+    "Weight": 2802
+  },
+  {
+    "Name": "Sami",
+    "Type": "Male",
+    "Weight": 2766
+  },
+  {
+    "Name": "Herman",
+    "Type": "Male",
+    "Weight": 2734
+  },
+  {
+    "Name": "James",
+    "Type": "Male",
+    "Weight": 2720
+  },
+  {
+    "Name": "Göte",
+    "Type": "Male",
+    "Weight": 2714
+  },
+  {
+    "Name": "Abdullah",
+    "Type": "Male",
+    "Weight": 2713
+  },
+  {
+    "Name": "Khaled",
+    "Type": "Male",
+    "Weight": 2681
+  },
+  {
+    "Name": "Kasper",
+    "Type": "Male",
+    "Weight": 2649
+  },
+  {
+    "Name": "Tor",
+    "Type": "Male",
+    "Weight": 2648
+  },
+  {
+    "Name": "Harald",
+    "Type": "Male",
+    "Weight": 2647
+  },
+  {
+    "Name": "Samir",
+    "Type": "Male",
+    "Weight": 2647
+  },
+  {
+    "Name": "Kalle",
+    "Type": "Male",
+    "Weight": 2629
+  },
+  {
+    "Name": "Jan-Olof",
+    "Type": "Male",
+    "Weight": 2628
+  },
+  {
+    "Name": "Yngve",
+    "Type": "Male",
+    "Weight": 2566
+  },
+  {
+    "Name": "Abdul",
+    "Type": "Male",
+    "Weight": 2542
+  },
+  {
+    "Name": "Colin",
+    "Type": "Male",
+    "Weight": 2516
+  },
+  {
+    "Name": "Per-Erik",
+    "Type": "Male",
+    "Weight": 2496
+  },
+  {
+    "Name": "Kennet",
+    "Type": "Male",
+    "Weight": 2484
+  },
+  {
+    "Name": "Joacim",
+    "Type": "Male",
+    "Weight": 2474
+  },
+  {
+    "Name": "Vilmer",
+    "Type": "Male",
+    "Weight": 2467
+  },
+  {
+    "Name": "Ruben",
+    "Type": "Male",
+    "Weight": 2460
+  },
+  {
+    "Name": "Patric",
+    "Type": "Male",
+    "Weight": 2447
+  },
+  {
+    "Name": "Sven-Erik",
+    "Type": "Male",
+    "Weight": 2423
+  },
+  {
+    "Name": "Hasan",
+    "Type": "Male",
+    "Weight": 2413
+  },
+  {
+    "Name": "Ronnie",
+    "Type": "Male",
+    "Weight": 2394
+  },
+  {
+    "Name": "Dante",
+    "Type": "Male",
+    "Weight": 2378
+  },
+  {
+    "Name": "Edward",
+    "Type": "Male",
+    "Weight": 2377
+  },
+  {
+    "Name": "Dag",
+    "Type": "Male",
+    "Weight": 2361
+  },
+  {
+    "Name": "Lars-Åke",
+    "Type": "Male",
+    "Weight": 2352
+  },
+  {
+    "Name": "Roy",
+    "Type": "Male",
+    "Weight": 2352
+  },
+  {
+    "Name": "Ernst",
+    "Type": "Male",
+    "Weight": 2351
+  },
+  {
+    "Name": "Adnan",
+    "Type": "Male",
+    "Weight": 2298
+  },
+  {
+    "Name": "Karl-Erik",
+    "Type": "Male",
+    "Weight": 2296
+  },
+  {
+    "Name": "Einar",
+    "Type": "Male",
+    "Weight": 2295
+  },
+  {
+    "Name": "Marko",
+    "Type": "Male",
+    "Weight": 2288
+  },
+  {
+    "Name": "Micael",
+    "Type": "Male",
+    "Weight": 2273
+  },
+  {
+    "Name": "Algot",
+    "Type": "Male",
+    "Weight": 2255
+  },
+  {
+    "Name": "Melwin",
+    "Type": "Male",
+    "Weight": 2232
+  },
+  {
+    "Name": "Vilhelm",
+    "Type": "Male",
+    "Weight": 2224
+  },
+  {
+    "Name": "Kristofer",
+    "Type": "Male",
+    "Weight": 2215
+  },
+  {
+    "Name": "Fred",
+    "Type": "Male",
+    "Weight": 2200
+  },
+  {
+    "Name": "Kenny",
+    "Type": "Male",
+    "Weight": 2195
+  },
+  {
+    "Name": "Birger",
+    "Type": "Male",
+    "Weight": 2168
+  },
+  {
+    "Name": "Ralf",
+    "Type": "Male",
+    "Weight": 2163
+  },
+  {
+    "Name": "Mio",
+    "Type": "Male",
+    "Weight": 2153
+  },
+  {
+    "Name": "Said",
+    "Type": "Male",
+    "Weight": 2105
+  },
+  {
+    "Name": "Hamza",
+    "Type": "Male",
+    "Weight": 2099
+  },
+  {
+    "Name": "Curt",
+    "Type": "Male",
+    "Weight": 2098
+  },
+  {
+    "Name": "Carl-Johan",
+    "Type": "Male",
+    "Weight": 2090
+  },
+  {
+    "Name": "Teodor",
+    "Type": "Male",
+    "Weight": 2046
+  },
+  {
+    "Name": "Antonio",
+    "Type": "Male",
+    "Weight": 2030
+  },
+  {
+    "Name": "Elvin",
+    "Type": "Male",
+    "Weight": 2025
+  },
+  {
+    "Name": "Alvar",
+    "Type": "Male",
+    "Weight": 2014
+  },
+  {
+    "Name": "Carlos",
+    "Type": "Male",
+    "Weight": 2010
+  },
+  {
+    "Name": "Ragnar",
+    "Type": "Male",
+    "Weight": 2003
+  },
+  {
+    "Name": "Lars-Olof",
+    "Type": "Male",
+    "Weight": 2001
+  },
+  {
+    "Name": "Joseph",
+    "Type": "Male",
+    "Weight": 1998
+  },
+  {
+    "Name": "Wille",
+    "Type": "Male",
+    "Weight": 1989
+  },
+  {
+    "Name": "Billy",
+    "Type": "Male",
+    "Weight": 1954
+  },
+  {
+    "Name": "Yousef",
+    "Type": "Male",
+    "Weight": 1936
+  },
+  {
+    "Name": "Pelle",
+    "Type": "Male",
+    "Weight": 1935
+  },
+  {
+    "Name": "Nicolas",
+    "Type": "Male",
+    "Weight": 1931
+  },
+  {
+    "Name": "Clas",
+    "Type": "Male",
+    "Weight": 1925
+  },
+  {
+    "Name": "Uno",
+    "Type": "Male",
+    "Weight": 1924
+  },
+  {
+    "Name": "Abdirahman",
+    "Type": "Male",
+    "Weight": 1914
+  },
+  {
+    "Name": "Alfons",
+    "Type": "Male",
+    "Weight": 1888
+  },
+  {
+    "Name": "Nicholas",
+    "Type": "Male",
+    "Weight": 1888
+  },
+  {
+    "Name": "Stellan",
+    "Type": "Male",
+    "Weight": 1887
+  },
+  {
+    "Name": "Eskil",
+    "Type": "Male",
+    "Weight": 1884
+  },
+  {
+    "Name": "Sonny",
+    "Type": "Male",
+    "Weight": 1871
+  },
+  {
+    "Name": "Bruno",
+    "Type": "Male",
+    "Weight": 1866
+  },
+  {
+    "Name": "Jari",
+    "Type": "Male",
+    "Weight": 1855
+  },
+  {
+    "Name": "Henning",
+    "Type": "Male",
+    "Weight": 1854
+  },
+  {
+    "Name": "Holger",
+    "Type": "Male",
+    "Weight": 1829
+  },
+  {
+    "Name": "Mark",
+    "Type": "Male",
+    "Weight": 1826
+  },
+  {
+    "Name": "Georg",
+    "Type": "Male",
+    "Weight": 1818
+  },
+  {
+    "Name": "Ismail",
+    "Type": "Male",
+    "Weight": 1818
+  },
+  {
+    "Name": "Piotr",
+    "Type": "Male",
+    "Weight": 1806
+  },
+  {
+    "Name": "Oliwer",
+    "Type": "Male",
+    "Weight": 1802
+  },
+  {
+    "Name": "Juan",
+    "Type": "Male",
+    "Weight": 1797
+  },
+  {
+    "Name": "Yusuf",
+    "Type": "Male",
+    "Weight": 1797
+  },
+  {
+    "Name": "Charles",
+    "Type": "Male",
+    "Weight": 1796
+  },
+  {
+    "Name": "Levi",
+    "Type": "Male",
+    "Weight": 1780
+  },
+  {
+    "Name": "Milan",
+    "Type": "Male",
+    "Weight": 1772
+  },
+  {
+    "Name": "Henric",
+    "Type": "Male",
+    "Weight": 1770
+  },
+  {
+    "Name": "Kian",
+    "Type": "Male",
+    "Weight": 1770
+  },
+  {
+    "Name": "Christofer",
+    "Type": "Male",
+    "Weight": 1769
+  },
+  {
+    "Name": "Reza",
+    "Type": "Male",
+    "Weight": 1767
+  },
+  {
+    "Name": "Torgny",
+    "Type": "Male",
+    "Weight": 1755
+  },
+  {
+    "Name": "Mario",
+    "Type": "Male",
+    "Weight": 1747
+  },
+  {
+    "Name": "Kari",
+    "Type": "Male",
+    "Weight": 1744
+  },
+  {
+    "Name": "Matti",
+    "Type": "Male",
+    "Weight": 1742
+  },
+  {
+    "Name": "Emilio",
+    "Type": "Male",
+    "Weight": 1727
+  },
+  {
+    "Name": "Jan-Åke",
+    "Type": "Male",
+    "Weight": 1717
+  },
+  {
+    "Name": "Ossian",
+    "Type": "Male",
+    "Weight": 1714
+  },
+  {
+    "Name": "Anas",
+    "Type": "Male",
+    "Weight": 1712
+  },
+  {
+    "Name": "Leonard",
+    "Type": "Male",
+    "Weight": 1702
+  },
+  {
+    "Name": "Mahdi",
+    "Type": "Male",
+    "Weight": 1679
+  },
+  {
+    "Name": "Bill",
+    "Type": "Male",
+    "Weight": 1677
+  },
+  {
+    "Name": "Vide",
+    "Type": "Male",
+    "Weight": 1665
+  },
+  {
+    "Name": "Evert",
+    "Type": "Male",
+    "Weight": 1662
+  },
+  {
+    "Name": "Helge",
+    "Type": "Male",
+    "Weight": 1659
+  },
+  {
+    "Name": "Jimmie",
+    "Type": "Male",
+    "Weight": 1659
+  },
+  {
+    "Name": "Fadi",
+    "Type": "Male",
+    "Weight": 1637
+  },
+  {
+    "Name": "Marco",
+    "Type": "Male",
+    "Weight": 1619
+  },
+  {
+    "Name": "Ian",
+    "Type": "Male",
+    "Weight": 1610
+  },
+  {
+    "Name": "Matteo",
+    "Type": "Male",
+    "Weight": 1607
+  },
+  {
+    "Name": "Tomasz",
+    "Type": "Male",
+    "Weight": 1601
+  },
+  {
+    "Name": "Andréas",
+    "Type": "Male",
+    "Weight": 1597
+  },
+  {
+    "Name": "Krzysztof",
+    "Type": "Male",
+    "Weight": 1586
+  },
+  {
+    "Name": "Loui",
+    "Type": "Male",
+    "Weight": 1580
+  },
+  {
+    "Name": "Artur",
+    "Type": "Male",
+    "Weight": 1574
+  },
+  {
+    "Name": "Thor",
+    "Type": "Male",
+    "Weight": 1564
+  },
+  {
+    "Name": "Alan",
+    "Type": "Male",
+    "Weight": 1554
+  },
+  {
+    "Name": "Lowe",
+    "Type": "Male",
+    "Weight": 1549
+  },
+  {
+    "Name": "Mehmet",
+    "Type": "Male",
+    "Weight": 1542
+  },
+  {
+    "Name": "Hamid",
+    "Type": "Male",
+    "Weight": 1539
+  },
+  {
+    "Name": "Michel",
+    "Type": "Male",
+    "Weight": 1534
+  },
+  {
+    "Name": "Fredric",
+    "Type": "Male",
+    "Weight": 1528
+  },
+  {
+    "Name": "Abdullahi",
+    "Type": "Male",
+    "Weight": 1527
+  },
+  {
+    "Name": "Jerker",
+    "Type": "Male",
+    "Weight": 1499
+  },
+  {
+    "Name": "Luis",
+    "Type": "Male",
+    "Weight": 1499
+  },
+  {
+    "Name": "Nikola",
+    "Type": "Male",
+    "Weight": 1489
+  },
+  {
+    "Name": "Rami",
+    "Type": "Male",
+    "Weight": 1486
+  },
+  {
+    "Name": "Khalid",
+    "Type": "Male",
+    "Weight": 1483
+  },
+  {
+    "Name": "Timmy",
+    "Type": "Male",
+    "Weight": 1472
+  },
+  {
+    "Name": "Timo",
+    "Type": "Male",
+    "Weight": 1468
+  },
+  {
+    "Name": "Abbas",
+    "Type": "Male",
+    "Weight": 1459
+  },
+  {
+    "Name": "Alve",
+    "Type": "Male",
+    "Weight": 1458
+  },
+  {
+    "Name": "Osman",
+    "Type": "Male",
+    "Weight": 1455
+  },
+  {
+    "Name": "Mika",
+    "Type": "Male",
+    "Weight": 1445
+  },
+  {
+    "Name": "Noa",
+    "Type": "Male",
+    "Weight": 1441
+  },
+  {
+    "Name": "Aleksandar",
+    "Type": "Male",
+    "Weight": 1425
+  },
+  {
+    "Name": "Isaac",
+    "Type": "Male",
+    "Weight": 1419
+  },
+  {
+    "Name": "Toni",
+    "Type": "Male",
+    "Weight": 1419
+  },
+  {
+    "Name": "Teo",
+    "Type": "Male",
+    "Weight": 1417
+  },
+  {
+    "Name": "Per-Åke",
+    "Type": "Male",
+    "Weight": 1412
+  },
+  {
+    "Name": "Pawel",
+    "Type": "Male",
+    "Weight": 1405
+  },
+  {
+    "Name": "Elvis",
+    "Type": "Male",
+    "Weight": 1404
+  },
+  {
+    "Name": "Jamie",
+    "Type": "Male",
+    "Weight": 1399
+  },
+  {
+    "Name": "Amin",
+    "Type": "Male",
+    "Weight": 1395
+  },
+  {
+    "Name": "Bilal",
+    "Type": "Male",
+    "Weight": 1395
+  },
+  {
+    "Name": "Anthony",
+    "Type": "Male",
+    "Weight": 1386
+  },
+  {
+    "Name": "Aaron",
+    "Type": "Male",
+    "Weight": 1385
+  },
+  {
+    "Name": "Valdemar",
+    "Type": "Male",
+    "Weight": 1383
+  },
+  {
+    "Name": "Emir",
+    "Type": "Male",
+    "Weight": 1382
+  },
+  {
+    "Name": "Sven-Olof",
+    "Type": "Male",
+    "Weight": 1378
+  },
+  {
+    "Name": "Georgios",
+    "Type": "Male",
+    "Weight": 1368
+  },
+  {
+    "Name": "Karim",
+    "Type": "Male",
+    "Weight": 1364
+  },
+  {
+    "Name": "Youssef",
+    "Type": "Male",
+    "Weight": 1349
+  },
+  {
+    "Name": "Claes-Göran",
+    "Type": "Male",
+    "Weight": 1347
+  },
+  {
+    "Name": "Matheo",
+    "Type": "Male",
+    "Weight": 1340
+  },
+  {
+    "Name": "Marcin",
+    "Type": "Male",
+    "Weight": 1338
+  },
+  {
+    "Name": "Goran",
+    "Type": "Male",
+    "Weight": 1328
+  },
+  {
+    "Name": "LarsErik",
+    "Type": "Male",
+    "Weight": 1319
+  },
+  {
+    "Name": "Andrzej",
+    "Type": "Male",
+    "Weight": 1309
+  },
+  {
+    "Name": "Denis",
+    "Type": "Male",
+    "Weight": 1306
+  },
+  {
+    "Name": "Louie",
+    "Type": "Male",
+    "Weight": 1304
+  },
+  {
+    "Name": "Lasse",
+    "Type": "Male",
+    "Weight": 1300
+  },
+  {
+    "Name": "Jarl",
+    "Type": "Male",
+    "Weight": 1294
+  },
+  {
+    "Name": "Matts",
+    "Type": "Male",
+    "Weight": 1294
+  },
+  {
+    "Name": "Edvard",
+    "Type": "Male",
+    "Weight": 1292
+  },
+  {
+    "Name": "Erling",
+    "Type": "Male",
+    "Weight": 1292
+  },
+  {
+    "Name": "Tristan",
+    "Type": "Male",
+    "Weight": 1279
+  },
+  {
+    "Name": "Igor",
+    "Type": "Male",
+    "Weight": 1277
+  },
+  {
+    "Name": "Bjarne",
+    "Type": "Male",
+    "Weight": 1276
+  },
+  {
+    "Name": "LarsGöran",
+    "Type": "Male",
+    "Weight": 1276
+  },
+  {
+    "Name": "Lars-Gunnar",
+    "Type": "Male",
+    "Weight": 1272
+  },
+  {
+    "Name": "Ari",
+    "Type": "Male",
+    "Weight": 1270
+  },
+  {
+    "Name": "Elmer",
+    "Type": "Male",
+    "Weight": 1253
+  },
+  {
+    "Name": "Mhd",
+    "Type": "Male",
+    "Weight": 1249
+  },
+  {
+    "Name": "Dragan",
+    "Type": "Male",
+    "Weight": 1240
+  },
+  {
+    "Name": "Ammar",
+    "Type": "Male",
+    "Weight": 1239
+  },
+  {
+    "Name": "JanErik",
+    "Type": "Male",
+    "Weight": 1239
+  },
+  {
+    "Name": "Erland",
+    "Type": "Male",
+    "Weight": 1237
+  },
+  {
+    "Name": "Calle",
+    "Type": "Male",
+    "Weight": 1234
+  },
+  {
+    "Name": "Andrew",
+    "Type": "Male",
+    "Weight": 1233
+  },
+  {
+    "Name": "Jamal",
+    "Type": "Male",
+    "Weight": 1233
+  },
+  {
+    "Name": "Boris",
+    "Type": "Male",
+    "Weight": 1230
+  },
+  {
+    "Name": "Per-Anders",
+    "Type": "Male",
+    "Weight": 1227
+  },
+  {
+    "Name": "Michal",
+    "Type": "Male",
+    "Weight": 1226
+  },
+  {
+    "Name": "Van",
+    "Type": "Male",
+    "Weight": 1221
+  },
+  {
+    "Name": "Timothy",
+    "Type": "Male",
+    "Weight": 1214
+  },
+  {
+    "Name": "Abdulrahman",
+    "Type": "Male",
+    "Weight": 1213
+  },
+  {
+    "Name": "Egon",
+    "Type": "Male",
+    "Weight": 1213
+  },
+  {
+    "Name": "Zakaria",
+    "Type": "Male",
+    "Weight": 1209
+  },
+  {
+    "Name": "Berndt",
+    "Type": "Male",
+    "Weight": 1207
+  },
+  {
+    "Name": "Marek",
+    "Type": "Male",
+    "Weight": 1201
+  },
+  {
+    "Name": "Kai",
+    "Type": "Male",
+    "Weight": 1192
+  },
+  {
+    "Name": "Janne",
+    "Type": "Male",
+    "Weight": 1190
+  },
+  {
+    "Name": "Jason",
+    "Type": "Male",
+    "Weight": 1187
+  },
+  {
+    "Name": "Md",
+    "Type": "Male",
+    "Weight": 1187
+  },
+  {
+    "Name": "Aston",
+    "Type": "Male",
+    "Weight": 1185
+  },
+  {
+    "Name": "Joar",
+    "Type": "Male",
+    "Weight": 1183
+  },
+  {
+    "Name": "Per-Olov",
+    "Type": "Male",
+    "Weight": 1182
+  },
+  {
+    "Name": "Samer",
+    "Type": "Male",
+    "Weight": 1182
+  },
+  {
+    "Name": "Greger",
+    "Type": "Male",
+    "Weight": 1179
+  },
+  {
+    "Name": "Arthur",
+    "Type": "Male",
+    "Weight": 1177
+  },
+  {
+    "Name": "Rafael",
+    "Type": "Male",
+    "Weight": 1175
+  },
+  {
+    "Name": "Alaa",
+    "Type": "Male",
+    "Weight": 1166
+  },
+  {
+    "Name": "Juha",
+    "Type": "Male",
+    "Weight": 1157
+  },
+  {
+    "Name": "Amer",
+    "Type": "Male",
+    "Weight": 1155
+  },
+  {
+    "Name": "Markku",
+    "Type": "Male",
+    "Weight": 1153
+  },
+  {
+    "Name": "Zoran",
+    "Type": "Male",
+    "Weight": 1151
+  },
+  {
+    "Name": "Abdi",
+    "Type": "Male",
+    "Weight": 1149
+  },
+  {
+    "Name": "Jean",
+    "Type": "Male",
+    "Weight": 1146
+  },
+  {
+    "Name": "Milian",
+    "Type": "Male",
+    "Weight": 1142
+  },
+  {
+    "Name": "Leonardo",
+    "Type": "Male",
+    "Weight": 1141
+  },
+  {
+    "Name": "Mehdi",
+    "Type": "Male",
+    "Weight": 1141
+  },
+  {
+    "Name": "Mostafa",
+    "Type": "Male",
+    "Weight": 1140
+  },
+  {
+    "Name": "Per-Arne",
+    "Type": "Male",
+    "Weight": 1134
+  },
+  {
+    "Name": "Manfred",
+    "Type": "Male",
+    "Weight": 1133
+  },
+  {
+    "Name": "Jan-Olov",
+    "Type": "Male",
+    "Weight": 1126
+  },
+  {
+    "Name": "Cristian",
+    "Type": "Male",
+    "Weight": 1124
+  },
+  {
+    "Name": "Theodore",
+    "Type": "Male",
+    "Weight": 1123
+  },
+  {
+    "Name": "Karl-Johan",
+    "Type": "Male",
+    "Weight": 1119
+  },
+  {
+    "Name": "Abbe",
+    "Type": "Male",
+    "Weight": 1118
+  },
+  {
+    "Name": "Jose",
+    "Type": "Male",
+    "Weight": 1110
+  },
+  {
+    "Name": "Pekka",
+    "Type": "Male",
+    "Weight": 1107
+  },
+  {
+    "Name": "SvenErik",
+    "Type": "Male",
+    "Weight": 1107
+  },
+  {
+    "Name": "Ulrik",
+    "Type": "Male",
+    "Weight": 1106
+  },
+  {
+    "Name": "Sven-Åke",
+    "Type": "Male",
+    "Weight": 1103
+  },
+  {
+    "Name": "Ingmar",
+    "Type": "Male",
+    "Weight": 1101
+  },
+  {
+    "Name": "Reine",
+    "Type": "Male",
+    "Weight": 1099
+  },
+  {
+    "Name": "Seth",
+    "Type": "Male",
+    "Weight": 1091
+  },
+  {
+    "Name": "Yasin",
+    "Type": "Male",
+    "Weight": 1091
+  },
+  {
+    "Name": "Hans-Erik",
+    "Type": "Male",
+    "Weight": 1088
+  },
+  {
+    "Name": "Adel",
+    "Type": "Male",
+    "Weight": 1085
+  },
+  {
+    "Name": "Willy",
+    "Type": "Male",
+    "Weight": 1083
+  },
+  {
+    "Name": "Rayan",
+    "Type": "Male",
+    "Weight": 1081
+  },
+  {
+    "Name": "Jorge",
+    "Type": "Male",
+    "Weight": 1077
+  },
+  {
+    "Name": "Vladimir",
+    "Type": "Male",
+    "Weight": 1076
+  },
+  {
+    "Name": "Edin",
+    "Type": "Male",
+    "Weight": 1074
+  },
+  {
+    "Name": "Armin",
+    "Type": "Male",
+    "Weight": 1073
+  },
+  {
+    "Name": "Roberto",
+    "Type": "Male",
+    "Weight": 1071
+  },
+  {
+    "Name": "Petri",
+    "Type": "Male",
+    "Weight": 1061
+  },
+  {
+    "Name": "Per-Ola",
+    "Type": "Male",
+    "Weight": 1060
+  },
+  {
+    "Name": "Manuel",
+    "Type": "Male",
+    "Weight": 1054
+  },
+  {
+    "Name": "Matthias",
+    "Type": "Male",
+    "Weight": 1054
+  },
+  {
+    "Name": "Caspian",
+    "Type": "Male",
+    "Weight": 1052
+  },
+  {
+    "Name": "Walid",
+    "Type": "Male",
+    "Weight": 1051
+  },
+  {
+    "Name": "Kjell-Åke",
+    "Type": "Male",
+    "Weight": 1040
+  },
+  {
+    "Name": "Dylan",
+    "Type": "Male",
+    "Weight": 1035
+  },
+  {
+    "Name": "PerOlof",
+    "Type": "Male",
+    "Weight": 1034
+  },
+  {
+    "Name": "Agne",
+    "Type": "Male",
+    "Weight": 1028
+  },
+  {
+    "Name": "Lukasz",
+    "Type": "Male",
+    "Weight": 1026
+  },
+  {
+    "Name": "Ralph",
+    "Type": "Male",
+    "Weight": 1026
+  },
+  {
+    "Name": "Valentin",
+    "Type": "Male",
+    "Weight": 1019
+  },
+  {
+    "Name": "Hasse",
+    "Type": "Male",
+    "Weight": 1018
+  },
+  {
+    "Name": "Sigvard",
+    "Type": "Male",
+    "Weight": 1014
+  },
+  {
+    "Name": "Elliott",
+    "Type": "Male",
+    "Weight": 1009
+  },
+  {
+    "Name": "José",
+    "Type": "Male",
+    "Weight": 1007
+  }
+]
