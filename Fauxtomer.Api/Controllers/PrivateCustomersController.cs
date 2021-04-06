@@ -20,6 +20,15 @@ namespace Fauxtomer.Api.Controllers
             this._service = service;
         }
 
+        /// <summary>
+        /// Find a customer
+        /// </summary>
+        /// <param name="personalNumber"></param>
+        /// <param name="firstName"></param>
+        /// <param name="lastName"></param>
+        /// <param name="city"></param>
+        /// <param name="country"></param>
+        /// <returns></returns>
         [HttpGet("find")]
         [ProducesResponseType(typeof(List<SimplePrivateCustomer>), StatusCodes.Status200OK)]
         public IActionResult Find(
@@ -33,6 +42,11 @@ namespace Fauxtomer.Api.Controllers
             return Ok(result);
         }
 
+        /// <summary>
+        /// Get a customer
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
         [HttpGet("{id}")]
         [ProducesResponseType(typeof(Person), StatusCodes.Status200OK)]
         public IActionResult Get(int id)
@@ -43,6 +57,10 @@ namespace Fauxtomer.Api.Controllers
             return Ok(person);
         }
 
+        /// <summary>
+        /// Update a customer
+        /// </summary>
+        /// <returns></returns>
         [HttpPut("{id}")]
         [ProducesResponseType(StatusCodes.Status204NoContent)]
         public IActionResult Update()
@@ -50,12 +68,20 @@ namespace Fauxtomer.Api.Controllers
             return NoContent();
         }
 
+        /// <summary>
+        /// Create a new customer
+        /// </summary>
+        /// <returns></returns>
         [HttpPost]
         public IActionResult Create()
         {
             return Ok();
         }
 
+        /// <summary>
+        /// Delete a customer
+        /// </summary>
+        /// <returns></returns>
         [HttpDelete("{id}")]
         public IActionResult Delete()
         {
