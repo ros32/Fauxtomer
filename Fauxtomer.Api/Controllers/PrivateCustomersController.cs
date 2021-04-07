@@ -66,7 +66,7 @@ namespace Fauxtomer.Api.Controllers
         [ProducesResponseType(StatusCodes.Status204NoContent)]
         public IActionResult Update()
         {
-            return NoContent();
+            return Forbid();
         }
 
         /// <summary>
@@ -76,7 +76,7 @@ namespace Fauxtomer.Api.Controllers
         [HttpPost]
         public IActionResult Create()
         {
-            return Ok();
+            return Forbid();
         }
 
         /// <summary>
@@ -86,7 +86,7 @@ namespace Fauxtomer.Api.Controllers
         [HttpDelete("{id}")]
         public IActionResult Delete()
         {
-            return Ok();
+            return Forbid();
         }
     }
 }
