@@ -32,13 +32,14 @@ namespace Fauxtomer.Api.Controllers
         [HttpGet("find")]
         [ProducesResponseType(typeof(List<SimplePrivateCustomer>), StatusCodes.Status200OK)]
         public IActionResult Find(
-            [FromQuery] string personalNumber = null, 
-            [FromQuery] string firstName = null, 
-            [FromQuery] string lastName = null, 
+            [FromQuery] string personalNumber = null,
+            [FromQuery] string firstName = null,
+            [FromQuery] string lastName = null,
+            [FromQuery] string address = null,
             [FromQuery] string city = null, 
             [FromQuery] string country = null)
         {
-            var result = _service.FindCustomer(personalNumber, firstName, lastName, city, country) ?? new List<SimplePrivateCustomer>();
+            var result = _service.FindCustomer(personalNumber, firstName, lastName, address, city, country) ?? new List<SimplePrivateCustomer>();
             return Ok(result);
         }
 
