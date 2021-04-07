@@ -37,10 +37,11 @@ namespace Fauxtomer.Api.Controllers
             [FromQuery] string lastName = null,
             [FromQuery] string address = null,
             [FromQuery] string city = null, 
-            [FromQuery] string country = null)
+            [FromQuery] string country = null,
+            [FromQuery] bool returnData = true)
         {
             var result = _service.FindCustomer(personalNumber, firstName, lastName, address, city, country) ?? new List<SimplePrivateCustomer>();
-            return Ok(result);
+            return Ok(returnData ? result : result?.Select(p => p.Id).ToArray());
         }
 
         /// <summary>

@@ -32,7 +32,12 @@ namespace Fauxtomer.Api
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "Fauxtomer.Api", Version = "v1" });
+                c.SwaggerDoc("v1", new OpenApiInfo {
+                    Title = "Fauxtomer API - A simple API for returning test data",
+                    Description = "This API enables you to return Swedish test data for use in any customer-related testing environment.<br>" +
+                    "Data is generated from common first and last names in Sweden, along with personal numbers approved for test usage and faux phone numbers and email addresses.<br><br>" +
+                    "Please note that no personal information is either saved or processed through this API. Any result resembling an identifiable private person is purely coincidental.",
+                    Version = "v1" });
             });
         }
 
