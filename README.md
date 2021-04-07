@@ -23,5 +23,6 @@ validation is, there could be issues with some properties.
 
 * Uniqueness of data between customers cannot be guaranteed. A single customer instance should have valid data but duplicate data could exist between multiple instances
 * Street addresses and phone numbers comply with the standard format, but any address validation or a more comprehesive phone validation would likely fail
+* While steps have been taken to generate plausable names that cannot uniquely identify an individual, there is still a risk that a false positive of a first name/last name combination could occur that uniquely identifies an individual based on these properties alone. 
 
 TBC
