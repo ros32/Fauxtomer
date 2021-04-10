@@ -59,36 +59,5 @@ namespace Fauxtomer.Api.Controllers
             var person = _service.GetCustomer(id, nonPlausableNames);
             return Ok(person);
         }
-
-        /// <summary>
-        /// Update a customer
-        /// </summary>
-        /// <returns></returns>
-        [HttpPut("{id}")]
-        [ProducesResponseType(StatusCodes.Status204NoContent)]
-        public IActionResult Update()
-        {
-            return Forbid();
-        }
-
-        /// <summary>
-        /// Create a new customer
-        /// </summary>
-        /// <returns></returns>
-        [HttpPost]
-        public IActionResult Create()
-        {
-            return Forbid();
-        }
-
-        /// <summary>
-        /// Delete a customer
-        /// </summary>
-        /// <returns></returns>
-        [HttpDelete("{id}")]
-        public IActionResult Delete()
-        {
-            return Forbid();
-        }
     }
 }
