@@ -1,0 +1,172 @@
+[
+  {
+    "Name": "Testsson",
+    "Type": "LastName",
+    "Weight": 10000
+  },
+  {
+    "Name": "Testberg",
+    "Type": "LastName",
+    "Weight": 8500
+  },
+  {
+    "Name": "Testström",
+    "Type": "LastName",
+    "Weight": 8000
+  },
+  {
+    "Name": "Testgren",
+    "Type": "LastName",
+    "Weight": 7500
+  },
+  {
+    "Name": "Test",
+    "Type": "LastName",
+    "Weight": 2000
+  },
+  {
+    "Name": "Testlund",
+    "Type": "LastName",
+    "Weight": 6500
+  },
+  {
+    "Name": "Testqvist",
+    "Type": "LastName",
+    "Weight": 6000
+  },
+  {
+    "Name": "Testin",
+    "Type": "LastName",
+    "Weight": 4000
+  },
+  {
+    "Name": "Testman",
+    "Type": "LastName",
+    "Weight": 3000
+  },
+  {
+    "Name": "Testmed",
+    "Type": "LastName",
+    "Weight": 1500
+  },
+  {
+    "Name": "Testblom",
+    "Type": "LastName",
+    "Weight": 3500
+  },
+  {
+    "Name": "Testsen",
+    "Type": "LastName",
+    "Weight": 2500
+  },
+  {
+    "Name": "Testén",
+    "Type": "LastName",
+    "Weight": 1000
+  },
+  {
+    "Name": "Testmann",
+    "Type": "LastName",
+    "Weight": 1000
+  },
+  {
+    "Name": "Testdahl",
+    "Type": "LastName",
+    "Weight": 3500
+  },
+  {
+    "Name": "Testkvist",
+    "Type": "LastName",
+    "Weight": 4000
+  },
+  {
+    "Name": "Testquist",
+    "Type": "LastName",
+    "Weight": 3500
+  },
+  {
+    "Name": "Testander",
+    "Type": "LastName",
+    "Weight": 1500
+  },
+  {
+    "Name": "von Test",
+    "Type": "LastName",
+    "Weight": 1000
+  },
+  {
+    "Name": "van der Test",
+    "Type": "LastName",
+    "Weight": 500
+  },
+  {
+    "Name": "Fejksson",
+    "Type": "LastName",
+    "Weight": 10000
+  },
+  {
+    "Name": "Fejkberg",
+    "Type": "LastName",
+    "Weight": 8500
+  },
+  {
+    "Name": "Fejkgren",
+    "Type": "LastName",
+    "Weight": 7500
+  },
+  {
+    "Name": "Fejk",
+    "Type": "LastName",
+    "Weight": 2000
+  },
+  {
+    "Name": "Fejklund",
+    "Type": "LastName",
+    "Weight": 6500
+  },
+  {
+    "Name": "Fejkman",
+    "Type": "LastName",
+    "Weight": 3000
+  },
+  {
+    "Name": "Fejkmed",
+    "Type": "LastName",
+    "Weight": 1500
+  },
+  {
+    "Name": "Fejkblom",
+    "Type": "LastName",
+    "Weight": 3500
+  },
+  {
+    "Name": "Fejkén",
+    "Type": "LastName",
+    "Weight": 1000
+  },
+  {
+    "Name": "Fejkmann",
+    "Type": "LastName",
+    "Weight": 1000
+  },
+  {
+    "Name": "Fejkdahl",
+    "Type": "LastName",
+    "Weight": 3500
+  },
+  {
+    "Name": "von Fejk",
+    "Type": "LastName",
+    "Weight": 1000
+  },
+  {
+    "Name": "Exempelsson",
+    "Type": "LastName",
+    "Weight": 6500
+  },
+  {
+    "Name": "Fauxberg",
+    "Type": "LastName",
+    "Weight": 2000
+  }
+]

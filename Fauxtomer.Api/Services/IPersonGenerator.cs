@@ -9,6 +9,7 @@ namespace Fauxtomer.Api.Services
     public interface IPersonGenerator
     {
         List<Person> DefaultPersons { get; }
-        Person GeneratePerson(int id);
+        List<Person> DefaultTestPersons { get; }
+        Person GeneratePerson(int id, bool nonPlausableNames = false);
     }
 }

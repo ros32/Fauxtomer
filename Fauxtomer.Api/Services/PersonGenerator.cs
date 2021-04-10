@@ -16,26 +16,29 @@ namespace Fauxtomer.Api.Services
         private List<NameRow> _maleNames;
         private List<NameRow> _femaleNames;
         private List<NameRow> _lastNames;
+        private List<NameRow> _testLastNames;
         private List<PersonalNumber> _malePersonalNumbers;
         private List<PersonalNumber> _femalePersonalNumbers;
         private int _medianMaleNameWeight;
         private int _medianFemaleNameWeight;
         private int _medianLastNameWeight;
         public List<Person> DefaultPersons { get; private set; }
+        public List<Person> DefaultTestPersons { get; private set; }
 
         public PersonGenerator()
         {
             Initialize();
         }
 
-        public Person GeneratePerson(int id)
+        public Person GeneratePerson(int id, bool nonPlausableNames = false)
         {
-            if (DefaultPersons != null && id < 1000 && DefaultPersons.Count >= id)
-                return DefaultPersons[id];
+            var source = nonPlausableNames ? DefaultTestPersons : DefaultPersons;
+            if (source != null && id < 1000 && source.Count >= id)
+                return source[id];
             var rnd = new Random(id);
             var isMale = rnd.Next(2) == 1;
             var firstName = GetName(isMale ? NameRow.NameType.Male : NameRow.NameType.Female, rnd);
-            var lastName = GetName(NameRow.NameType.LastName, rnd);
+            var lastName = GetName(NameRow.NameType.LastName, rnd, nonPlausableNames);
             PersonalNumber personalNumber;
             if (isMale)
             {
@@ -91,7 +94,7 @@ namespace Fauxtomer.Api.Services
             for (var i = 1; i <= addressCount; i++)
             {
                 var isOld = i < emailCount / 2;
-                person.AssociatedAddresses.Add(GetStreetAddress(rnd, id, i, null, isOld ? activeDates[0] : activeDates[1]));
+                person.AssociatedAddresses.Add(GetStreetAddress(rnd, id, i, null, isOld ? activeDates[0] : activeDates[1], nonPlausableNames));
             }
             person.CurrentAddressId = rnd.Next(5) % 4 == 0 ? addressCount : rnd.Next(addressCount) + 1;
 
@@ -112,10 +115,10 @@ namespace Fauxtomer.Api.Services
             return person;
         }
 
-        private Address GetStreetAddress(Random rnd, int seed, int id, DateTime? lastDeactivationDate = null, DateTime? deactionvationDate = null)
+        private Address GetStreetAddress(Random rnd, int seed, int id, DateTime? lastDeactivationDate = null, DateTime? deactionvationDate = null, bool nonPlausableNames = false)
         {
             var hasCo = rnd.Next(20) % 19 == 0;
-            var co = hasCo ? GeneratePerson(seed * 7) : null;
+            var co = hasCo ? GeneratePerson(seed * 7, nonPlausableNames) : null;
             var coAddress = hasCo 
                 ? co?.CurrentAddress?.CareOfAddress == null 
                     ? $"c/o {co?.FirstName} {co?.LastName}" 
@@ -176,13 +179,13 @@ namespace Fauxtomer.Api.Services
             return email;
         }
 
-        private string GetName(NameRow.NameType type, Random rnd)
+        private string GetName(NameRow.NameType type, Random rnd, bool nonPlausableName = false)
         {
             var list = (type == NameRow.NameType.Female
                 ? _femaleNames
                 : type == NameRow.NameType.Male
                     ? _maleNames
-                    : _lastNames).OrderBy(p => p.Weight).ToList();
+                    : nonPlausableName ? _testLastNames : _lastNames).OrderBy(p => p.Weight).ToList();
             if (rnd.Next(5) % 4 == 0)
                 return list[rnd.Next(list.Count)].Name;
             var value = rnd.NextDouble() * list[^1].Weight;
@@ -216,6 +219,8 @@ namespace Fauxtomer.Api.Services
             _femaleNames = JsonSerializer.Deserialize<List<NameRow>>(femaleNamesFile);
             var lastNamesFile = File.ReadAllText("./Data/Json/LastNames.json");
             _lastNames = JsonSerializer.Deserialize<List<NameRow>>(lastNamesFile);
+            var testLastNames = File.ReadAllText("./Data/Json/TestLastNames.json");
+            _testLastNames = JsonSerializer.Deserialize<List<NameRow>>(testLastNames);
             var personalNumbersFile = File.ReadAllText("./Data/Json/PersonalNumbers.json");
             var personalNumbers = JsonSerializer.Deserialize<List<PersonalNumber>>(personalNumbersFile);
             _malePersonalNumbers = personalNumbers?.Where(p => p.Identifier[10] % 2 == 0).ToList();
@@ -238,6 +243,13 @@ namespace Fauxtomer.Api.Services
                 defaultPersons.Add(GeneratePerson(i));
             }
             DefaultPersons = defaultPersons;
+
+            var defaultTestPersons = new List<Person>();
+            for (var i = 0; i < 1000; i++)
+            {
+                defaultTestPersons.Add(GeneratePerson(i, true));
+            }
+            DefaultTestPersons = defaultTestPersons;
         }
 
         private List<string> Cities => new List<string>()

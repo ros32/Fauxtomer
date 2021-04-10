@@ -38,9 +38,10 @@ namespace Fauxtomer.Api.Controllers
             [FromQuery] string address = null,
             [FromQuery] string city = null, 
             [FromQuery] string country = null,
-            [FromQuery] bool returnData = true)
+            [FromQuery] bool returnData = true,
+            [FromQuery] bool nonPlausableNames = false)
         {
-            var result = _service.FindCustomer(personalNumber, firstName, lastName, address, city, country) ?? new List<SimplePrivateCustomer>();
+            var result = _service.FindCustomer(personalNumber, firstName, lastName, address, city, country, nonPlausableNames) ?? new List<SimplePrivateCustomer>();
             return Ok(returnData ? result : result?.Select(p => p.Id).ToArray());
         }
 
@@ -51,11 +52,11 @@ namespace Fauxtomer.Api.Controllers
         /// <returns></returns>
         [HttpGet("{id}")]
         [ProducesResponseType(typeof(Person), StatusCodes.Status200OK)]
-        public IActionResult Get(int id)
+        public IActionResult Get(int id, [FromQuery] bool nonPlausableNames = false)
         {
             if (id < 1)
                 return NoContent();
-            var person = _service.GetCustomer(id);
+            var person = _service.GetCustomer(id, nonPlausableNames);
             return Ok(person);
         }
 

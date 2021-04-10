@@ -8,7 +8,7 @@ namespace Fauxtomer.Api.Services
 {
     public interface IPrivateCustomerService
     {
-        List<SimplePrivateCustomer> FindCustomer(string personalNumber = null, string firstName = null, string lastName = null, string address = null, string city = null, string country = null);
-        Person GetCustomer(int id);
+        List<SimplePrivateCustomer> FindCustomer(string personalNumber = null, string firstName = null, string lastName = null, string address = null, string city = null, string country = null, bool nonPlausableNames = false);
+        Person GetCustomer(int id, bool nonPlausableNames = false);
     }
 }

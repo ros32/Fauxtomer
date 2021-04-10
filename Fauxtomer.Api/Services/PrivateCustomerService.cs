@@ -15,7 +15,7 @@ namespace Fauxtomer.Api.Services
             this._generator = generator;
         }
 
-        public List<SimplePrivateCustomer> FindCustomer(string personalNumber = null, string firstName = null, string lastName = null, string address = null, string city = null, string country = null)
+        public List<SimplePrivateCustomer> FindCustomer(string personalNumber = null, string firstName = null, string lastName = null, string address = null, string city = null, string country = null, bool nonPlausableNames = false)
         {
             var allEmpty = string.IsNullOrWhiteSpace(personalNumber) 
                 && string.IsNullOrWhiteSpace(firstName) 
@@ -23,7 +23,8 @@ namespace Fauxtomer.Api.Services
                 && string.IsNullOrWhiteSpace(address) 
                 && string.IsNullOrWhiteSpace(city)
                 && string.IsNullOrWhiteSpace(country);
-            var result = (allEmpty ? _generator.DefaultPersons.Skip(1).Take(50) : _generator.DefaultPersons.Skip(1).Where(p =>
+            var source = nonPlausableNames ? _generator.DefaultTestPersons : _generator.DefaultPersons;
+            var result = (allEmpty ? source.Skip(1).Take(50) : source.Skip(1).Where(p =>
             (string.IsNullOrWhiteSpace(personalNumber) || p.PersonalNumber.Equals(personalNumber, StringComparison.InvariantCultureIgnoreCase))
             && (string.IsNullOrWhiteSpace(firstName) || p.FirstName.Contains(firstName, StringComparison.InvariantCultureIgnoreCase))
             && (string.IsNullOrWhiteSpace(lastName) || p.LastName.Contains(lastName, StringComparison.InvariantCultureIgnoreCase))
@@ -53,9 +54,9 @@ namespace Fauxtomer.Api.Services
             return result;
         }
 
-        public Person GetCustomer(int id)
+        public Person GetCustomer(int id, bool nonPlausableNames = false)
         {
-            var person = _generator.GeneratePerson(id);
+            var person = _generator.GeneratePerson(id, nonPlausableNames);
             return person;
         }
     }
