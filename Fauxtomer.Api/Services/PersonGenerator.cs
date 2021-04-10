@@ -149,12 +149,15 @@ namespace Fauxtomer.Api.Services
 
         private PhoneNumber GetPhoneNumber(Random rnd, bool isMobilePhone, bool isValidated, int id, DateTime? activationDate = null)
         {
-            var phoneNumber = $"+4600{rnd.Next(1000000, 9999999)}";
+            var prefix = isMobilePhone ? MobilePhoneNumbers : PhoneNumbers[rnd.Next(PhoneNumbers.Count)];
+            var suffix = (isMobilePhone ? rnd.Next(5, 100) : rnd.Next(100)).ToString().PadLeft(2, '0');
+            var number = $"{prefix}{suffix}";
+
             var phone = new PhoneNumber()
             {
                 Id = id,
-                Number = phoneNumber,
-                NumberHash = ComputeSha256Hash(phoneNumber),
+                Number = number,
+                NumberHash = ComputeSha256Hash(number),
                 CreationDate = activationDate ?? DateTime.Now,
                 IsMobile = isMobilePhone,
                 Validated = isValidated,
@@ -166,7 +169,7 @@ namespace Fauxtomer.Api.Services
         private EmailAddress GetEmailAddress(Random rnd, string firstName, string lastName, string domain, bool isValidated, int id, DateTime? activationDate = null)
         {
             var emailAddress = RemoveDiacritics($"{firstName}.{lastName}{rnd.Next(99)}{domain}").ToLower();
-            emailAddress = emailAddress.Replace("-", "_");
+            emailAddress = emailAddress.Replace("-", "_").Replace(" ", "_");
             var email = new EmailAddress()
             {
                 Id = id,
@@ -280,6 +283,16 @@ namespace Fauxtomer.Api.Services
             "Nedre Testvägen",
             "Testgränd",
             "Testbacken",
+        };
+
+        private string MobilePhoneNumbers => "+467017406";
+
+        private List<string> PhoneNumbers => new List<string>()
+        {
+            "+463139006",
+            "+464062804",
+            "+468465004",
+            "+469803192"
         };
 
         private List<string> EmailDomains => new List<string>()
