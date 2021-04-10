@@ -226,8 +226,8 @@ namespace Fauxtomer.Api.Services
             _testLastNames = JsonSerializer.Deserialize<List<NameRow>>(testLastNames);
             var personalNumbersFile = File.ReadAllText("./Data/Json/PersonalNumbers.json");
             var personalNumbers = JsonSerializer.Deserialize<List<PersonalNumber>>(personalNumbersFile);
-            _malePersonalNumbers = personalNumbers?.Where(p => p.Identifier[10] % 2 == 0).ToList();
-            _femalePersonalNumbers = personalNumbers?.Where(p => p.Identifier[10] % 2 == 1).ToList();
+            _malePersonalNumbers = personalNumbers?.Where(p => p.Identifier[10] % 2 == 1).ToList();
+            _femalePersonalNumbers = personalNumbers?.Where(p => p.Identifier[10] % 2 == 0).ToList();
 
            
             _medianMaleNameWeight = _maleNames.Count > 1 
