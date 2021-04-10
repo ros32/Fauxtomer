@@ -17,7 +17,7 @@ validation is, there could be issues with some properties.
  - [x] Valid test personal numbers from Swedish Tax Agenxy
  - [x] Plausable first and last names generated using names with 1 000 or more bearers
  - [x] Valid e-mail addresses generated using disposable e-mail services (Mailinator etc)
- - [ ] Valid phone numbers generated using unallocated number series and approved test data from the Swedish Post and Telecom Authority
+ - [X] Valid phone numbers generated using unallocated number series and approved test data from the Swedish Post and Telecom Authority
  
 # Limitations
 
